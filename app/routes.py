@@ -1,9 +1,16 @@
 from app import app
 from flask import render_template,flash,request
+from app.forms import LoginForm
 
 @app.route('/')
 @app.route('/index')
 @app.route('/upload', methods=['GET','POST'])
+
+@app.route('/login')
+def login():
+    form = LoginForm()
+    return render_template('login.html', title='Sign In', form=form)
+
 
 def upload_file():
     if request.method=='POST':
