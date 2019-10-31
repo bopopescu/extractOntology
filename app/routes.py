@@ -1,6 +1,12 @@
 from app import app
 from flask import render_template,flash,request
-from app.forms import LoginForm
+from app.forms import InputForm
+from wtforms import SelectField
+
+@app.route('/result',methods=['POST'])
+def result():
+
+    return render_template("result.html",user=user)
 
 @app.route('/')
 @app.route('/index')
@@ -8,9 +14,28 @@ from app.forms import LoginForm
 
 @app.route('/login')
 def login():
-    form = LoginForm()
+    # clinet = MongoClient('mongodb://127.0.0.1:27017/')
+    # database_name = 'extractOntology'
+    # database = clinet[database_name]
+    # collections = database.collection_names(include_system_collections=False)
+    # posts = database.posts
+    # name_list = [p['name'] for p in posts.find({'type': "server"})]
+    form = InputForm()
+
+    # articles = SelectField(
+    #     u'Industry Type',
+    #     choices = [('Software', 'software'), ('Sales', 'sales')]
+    # )
+    if form.validate_on_submit():
+        return render_template('result.html',title='Result',form=form)
     return render_template('login.html', title='Sign In', form=form)
 
+@app.route('/', methods=['POST'])
+def my_form_post():
+    documents = app.mongo.db[request.form['articles']].find({})
+    for document in documents:
+        print(document)
+    return render_template("result.html",title="result",form=request.form['articles'])
 
 def upload_file():
     if request.method=='POST':
@@ -33,3 +58,4 @@ def index():
     ]
 
     return render_template('index.html',title='Home',user=user, posts=posts)
+
