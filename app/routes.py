@@ -1,12 +1,13 @@
-from app import app
+from app import app,mongo
 from flask import render_template,flash,request
 from app.forms import InputForm
+from app.models import dataProcess
 from wtforms import SelectField
 
-@app.route('/result',methods=['POST'])
-def result():
-
-    return render_template("result.html",user=user)
+# @app.route('/result',methods=['POST'])
+# def result():
+#
+#     return render_template("result.html",user=user)
 
 @app.route('/')
 @app.route('/index')
@@ -32,9 +33,8 @@ def login():
 
 @app.route('/', methods=['POST'])
 def my_form_post():
-    documents = app.mongo.db[request.form['articles']].find({})
-    for document in documents:
-        print(document)
+    documents = mongo.db[request.form['articles']].find({})
+    dataProcess(documents)
     return render_template("result.html",title="result",form=request.form['articles'])
 
 def upload_file():
