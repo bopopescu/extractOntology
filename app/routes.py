@@ -4,7 +4,8 @@ from app.forms import InputForm
 from app.models import dataProcess
 from bson.json_util import dumps
 from wtforms import SelectField
-
+import os
+import json
 # @app.route('/result',methods=['POST'])
 # def result():
 #
@@ -35,8 +36,11 @@ def login():
 @app.route('/', methods=['POST'])
 def my_form_post():
     documents = dumps(mongo.db[request.form['articles']].find({}))
+    json_url=os.path.join(os.path.realpath(os.path.dirname(__file__)),"static","flare.json")
+    jsonData = json.load(open(json_url))
     # , data = dataProcess(documents)
-    return render_template("result.html",title="result",form=request.form['articles'])
+    return render_template("result.html",title="result",form=request.form['articles'], jsonData=jsonData)
+# @app.route('')
 
 def upload_file():
     if request.method=='POST':
