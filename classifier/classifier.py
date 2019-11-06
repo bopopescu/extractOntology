@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May  7 17:19:22 2019
-
-@author: angelosalatino
-"""
 
 import math
 from functools import partial

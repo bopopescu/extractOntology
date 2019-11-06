@@ -35,7 +35,8 @@ def login():
 @app.route('/', methods=['POST'])
 def my_form_post():
     documents = dumps(mongo.db[request.form['articles']].find({}))
-    return render_template("result.html",title="result",form=request.form['articles'], data=dataProcess(documents))
+    # , data = dataProcess(documents)
+    return render_template("result.html",title="result",form=request.form['articles'])
 
 def upload_file():
     if request.method=='POST':

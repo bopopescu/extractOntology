@@ -1,12 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 22 08:45:29 2018
-
-@author: angelosalatino
-
-This file mostly contains routines to deal with the Computer Science Ontology and the model.
-"""
 
 import pickle
 import os

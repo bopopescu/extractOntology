@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 22 09:09:10 2018
 
-@author: angelosalatino
-"""
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk import ngrams
