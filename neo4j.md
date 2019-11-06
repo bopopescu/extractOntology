@@ -10,7 +10,7 @@ CREATE INDEX ON: Category(catId)
 
 CREATE INDEX ON: Category(catName)
 
-CREATE (c:Category:RootCategory {catId:0, catName:'Machine learning', fetched:false, level:0})
+CREATE (c:Category:RootCategory {catId:0, catName:'Areas of computer science', fetched:false, level:0})
 
 :param level:1
 

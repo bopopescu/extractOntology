@@ -2,6 +2,7 @@ from app import app,mongo
 from flask import render_template,flash,request
 from app.forms import InputForm
 from app.models import dataProcess
+from bson.json_util import dumps
 from wtforms import SelectField
 
 # @app.route('/result',methods=['POST'])
@@ -33,14 +34,12 @@ def login():
 
 @app.route('/', methods=['POST'])
 def my_form_post():
-    documents = mongo.db[request.form['articles']].find({})
-    dataProcess(documents)
-    return render_template("result.html",title="result",form=request.form['articles'])
+    documents = dumps(mongo.db[request.form['articles']].find({}))
+    return render_template("result.html",title="result",form=request.form['articles'], data=dataProcess(documents))
 
 def upload_file():
     if request.method=='POST':
         f=request.files['file']
-        print('I SAVE FILE')
         return 'file uploaded successfully'
     else:
         return render_template('upload.html')
