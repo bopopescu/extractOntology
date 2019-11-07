@@ -1,6 +1,8 @@
 // Get JSON data
 
-    var treeData=JSON.parse('{{jsonData  | tojson | safe}}')
+//    var treeData=JSON.parse('{{jsonData  | tojson | safe}}')
+$(window).load(function() {
+    var treeData=objectData
     console.log(treeData)
     // Calculate total nodes, max label length
     var totalNodes = 0;
@@ -520,3 +522,4 @@
     // Layout the tree initially and center on the root node.
     update(root);
     centerNode(root);
+})

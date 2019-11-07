@@ -5,5 +5,6 @@ from wtforms.validators import DataRequired
 
 class InputForm(FlaskForm):
     articles = SelectField('article',choices=[('LNCS_9678','(LNCS_9678) ESWC2016 Main Conference'),('CCIS_641','(CCIS_641) ESWC2016 Challenges')])
+    choice= SelectField('choice',choices=[('graph','graph'),('tree','tree')])
     submit = SubmitField('Extract')
 
