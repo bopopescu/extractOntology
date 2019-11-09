@@ -1,0 +1,302 @@
+{
+    "id1": {
+        "syntactic": ["linked data", "vocabulary", "linked open data", "distributed resources"],
+        "semantic": ["vocabulary", "linked data", "linked open data", "web of data", "integrated data", "dbpedia", "cloud services", "ontology", "directed graphs", "weighted graph", "semantic web"],
+        "union": ["linked open data", "weighted graph", "semantic web", "linked data", "cloud services", "directed graphs", "ontology", "integrated data", "distributed resources", "dbpedia", "vocabulary", "web of data"],
+        "enhanced": ["graphic methods", "world wide web", "semantics", "data handling", "distributed database systems", "commerce", "cloud providers", "mobile devices", "computing paradigm", "computing resource", "computing environments", "software as a service", "communication", "graph theory", "data integration", "grid computing", "linguistics"]
+    },
+    "id2": {
+        "syntactic": ["support vector machine", "classifiers", "twitter", "machine learning", "linked data", "geo-spatial", "user-generated content", "social media", "text document", "semantic information"],
+        "semantic": ["semantics", "semantic information", "parsing algorithm", "learning", "machine learning", "linked data", "social media", "twitter", "geo-spatial", "text document", "classifiers", "support vector", "support vector machine", "svm", "user information", "micro-blog", "geo-spatial data", "geospatial information", "gis", "electronic document", "multimedia contents", "digital contents", "integrated data", "linked open data", "web of data", "semantic web", "resource description framework", "textual data"],
+        "union": ["support vector machine", "twitter", "machine learning", "resource description framework", "micro-blog", "support vector", "electronic document", "linked open data", "gis", "semantics", "integrated data", "digital contents", "social media", "text document", "geo-spatial data", "web of data", "textual data", "semantic web", "svm", "user-generated content", "multimedia contents", "classifiers", "learning", "geospatial information", "linked data", "geo-spatial", "parsing algorithm", "semantic information", "user information"],
+        "enhanced": ["social networks", "artificial intelligence", "word processing", "software", "data integration", "digital rights management", "world wide web", "text mining", "information retrieval systems", "spatial data", "web 2.0", "user interfaces", "multimedia services", "education", "data handling", "natural language processing", "computational linguistics", "formal languages", "recommender systems", "personal information"]
+    },
+    "id3": {
+        "syntactic": ["linked data", "semantics", "recommendation", "resource description framework"],
+        "semantic": ["linked data", "resource description framework", "recommendation", "semantics", "integrated data"],
+        "union": ["linked data", "semantics", "resource description framework", "integrated data", "recommendation"],
+        "enhanced": ["semantic web", "data handling", "data integration", "recommender systems"]
+    },
+    "id4": {
+        "syntactic": ["linked data", "empirical analysis", "recommendation"],
+        "semantic": ["empirical analysis", "linked data", "recommendation", "personalized recommendation", "correlation analysis"],
+        "union": ["empirical analysis", "linked data", "correlation analysis", "personalized recommendation", "recommendation"],
+        "enhanced": ["numerical model", "semantic web", "data handling", "mathematics", "recommender systems"]
+    },
+    "id5": {
+        "syntactic": ["reasoning", "linked open data", "web ontology language", "semantic web"],
+        "semantic": ["web ontology language", "semantics", "semantic web", "linked open data", "linked data", "reasoning"],
+        "union": ["reasoning", "linked open data", "web ontology language", "semantic web", "semantics", "linked data"],
+        "enhanced": ["ontology", "formal languages", "description logic", "world wide web", "data handling"]
+    },
+    "id6": {
+        "syntactic": ["linked open data", "web ontology language", "semantic web", "ontology", "reengineering", "sparql", "open source implementation", "bitcoin", "blockchain"],
+        "semantic": ["semantics", "semantic web", "ontology", "web ontology language", "blockchain", "engineering", "sparql", "bitcoin", "open source implementation"],
+        "union": ["linked open data", "web ontology language", "engineering", "semantic web", "semantics", "ontology", "reengineering", "sparql", "open source implementation", "bitcoin", "blockchain"],
+        "enhanced": ["linked data", "description logic", "world wide web", "computer software maintenance", "reverse engineering", "query processing", "resource description framework", "hadoop", "cryptocurrency", "distributed ledger", "peer-to-peer", "cryptography"]
+    },
+    "id7": {
+        "syntactic": ["internet", "sparql", "rdf data", "resource description framework"],
+        "semantic": ["resource description framework", "sparql", "rdf graph", "rdf data", "internet", "world wide web", "xml", "extensible markup language", "xml (extensible markup language)"],
+        "union": ["extensible markup language", "rdf graph", "internet", "sparql", "rdf data", "resource description framework", "xml", "world wide web", "xml (extensible markup language)"],
+        "enhanced": ["html", "hypertext systems", "query languages", "computer science", "query processing", "semantic web", "database systems"]
+    },
+    "id8": {
+        "syntactic": ["blogs", "ontology", "share knowledge", "classification models"],
+        "semantic": ["ontology", "domain ontologies", "classification models", "blogs", "formal ontology"],
+        "union": ["classification models", "ontology", "domain ontologies", "share knowledge", "formal ontology", "blogs"],
+        "enhanced": ["classification methods", "semantics", "knowledge acquisition", "knowledge-sharing", "knowledge representation", "world wide web"]
+    },
+    "id9": {
+        "syntactic": ["recommender systems", "linked data", "ontology", "recommendation", "engine"],
+        "semantic": ["ontology", "semantics", "recommender systems", "recommendation", "linked data", "engine"],
+        "union": ["recommender systems", "linked data", "semantics", "ontology", "recommendation", "engine"],
+        "enhanced": ["information retrieval", "semantic web", "data handling", "engineering"]
+    },
+    "id10": {
+        "syntactic": ["component", "linked data", "resource description framework", "source codes", "question answering", "natural language generation", "named entity recognition", "information retrieval", "knowledge base"],
+        "semantic": ["resource description framework", "knowledge base", "information retrieval", "natural languages", "natural language generation", "component", "source codes", "linked data", "automatic summarization", "text summarization", "sentence extraction", "web graphs", "sparql", "rdf graph", "natural language understanding"],
+        "union": ["component", "rdf graph", "natural languages", "linked data", "sparql", "resource description framework", "source codes", "text summarization", "automatic summarization", "question answering", "natural language generation", "named entity recognition", "sentence extraction", "web graphs", "information retrieval", "natural language understanding", "knowledge base"],
+        "enhanced": ["software", "linguistics", "semantics", "semantic web", "data handling", "query processing", "software engineering", "text processing", "natural language processing", "computational linguistics", "search engines", "web page", "graph theory", "computer science", "knowledge representation", "speech recognition", "knowledge based systems"]
+    },
+    "id11": {
+        "syntactic": ["wiki", "online systems", "question answering", "real data sets", "inference"],
+        "semantic": ["artificial intelligence", "wiki", "inference", "online systems", "probabilistic inference"],
+        "union": ["probabilistic inference", "wiki", "online systems", "artificial intelligence", "question answering", "real data sets", "inference"],
+        "enhanced": ["inference engines", "bayesian networks", "probability distributions", "web 2.0", "knowledge management", "information systems", "computer systems", "computer science", "natural language processing", "computational linguistics", "information retrieval", "clustering algorithms", "database systems"]
+    },
+    "id12": {
+        "syntactic": ["twitter", "resource description framework", "sociology", "social media", "knowledge discovery", "sentiment analysis", "data integration"],
+        "semantic": ["resource description framework", "twitter", "social media", "sociology", "sentiment analysis", "data integration", "knowledge discovery", "micro-blog", "social sciences"],
+        "union": ["twitter", "resource description framework", "micro-blog", "sociology", "social media", "knowledge discovery", "social sciences", "sentiment analysis", "data integration"],
+        "enhanced": ["social networks", "semantic web", "world wide web", "knowledge acquisition", "data mining", "database systems", "natural language processing", "computational linguistics", "data handling"]
+    },
+    "id13": {
+        "syntactic": ["compression methods", "rdf data", "resource description framework"],
+        "semantic": ["resource description framework", "rdf graph", "rdf data", "compression methods", "compression ratio (machinery)"],
+        "union": ["rdf graph", "rdf data", "resource description framework", "compression ratio (machinery)", "compression methods"],
+        "enhanced": ["query processing", "semantic web", "data compression"]
+    },
+    "id14": {
+        "syntactic": ["semantic similarity", "resource description framework"],
+        "semantic": ["query results", "query processing", "keyword queries", "semantic similarity", "resource description framework", "semantics"],
+        "union": ["semantic similarity", "semantics", "keyword queries", "resource description framework", "query results", "query processing"],
+        "enhanced": ["natural language processing", "ontology", "keyword search", "semantic web", "search engines", "query languages"]
+    },
+    "id15": {
+        "syntactic": ["semantics", "world wide web", "technology innovation", "vocabulary", "libraries", "recommendation", "digital libraries"],
+        "semantic": ["world wide web", "libraries", "digital libraries", "digital collections", "vocabulary", "recommendation", "semantics"],
+        "union": ["semantics", "digital collections", "world wide web", "technology innovation", "vocabulary", "libraries", "recommendation", "digital libraries"],
+        "enhanced": ["internet", "engineering research", "linguistics", "education", "recommender systems", "database systems", "user interfaces"]
+    },
+    "id16": {
+        "syntactic": ["resource description framework"],
+        "semantic": ["resource description framework", "formal specification", "wireless link", "rdf graph", "program execution"],
+        "union": ["rdf graph", "formal specification", "resource description framework", "wireless link", "program execution"],
+        "enhanced": ["formal methods", "real time systems", "software engineering", "formal languages", "computer hardware description languages", "computer programming languages", "semantic web", "wireless networks", "program processors", "program compilers"]
+    },
+    "id17": {
+        "syntactic": ["dbpedia", "knowledge base"],
+        "semantic": ["web page", "knowledge base", "dbpedia", "text document", "web crawlers"],
+        "union": ["web page", "web crawlers", "text document", "dbpedia", "knowledge base"],
+        "enhanced": ["world wide web", "search engines", "text mining", "information retrieval systems", "linked data", "knowledge based systems"]
+    },
+    "id18": {
+        "syntactic": ["semantics", "dbpedia", "social media"],
+        "semantic": ["semantics", "social media", "dbpedia", "directed graphs", "weighted graph", "temporal correlations", "domain knowledge", "explicit knowledge", "tacit knowledge"],
+        "union": ["weighted graph", "domain knowledge", "semantics", "tacit knowledge", "directed graphs", "temporal correlations", "social media", "explicit knowledge", "dbpedia"],
+        "enhanced": ["graphic methods", "knowledge based systems", "knowledge management", "graph theory", "spatial correlations", "image coding", "world wide web", "linked data"]
+    },
+    "id19": {
+        "syntactic": ["neural networks", "semantic gap", "semantic web", "semantics", "database systems", "embeddings"],
+        "semantic": ["semantics", "semantic gap", "database systems", "semantic web", "neural networks", "embeddings"],
+        "union": ["neural networks", "semantic gap", "semantic web", "semantics", "database systems", "embeddings"],
+        "enhanced": ["machine learning", "semantic information", "content-based image retrieval", "world wide web", "computer systems", "planar graph"]
+    },
+    "id20": {
+        "syntactic": ["smart contracts", "distributed ledger", "blockchain"],
+        "semantic": ["blockchain", "social relationships", "contracts", "scholarly communication", "smart homes", "internet of things"],
+        "union": ["distributed ledger", "smart contracts", "internet of things", "blockchain", "scholarly communication", "contracts", "social relationships", "smart homes"],
+        "enhanced": ["distributed database systems", "internet protocols", "architecture types", "peer-to-peer", "cryptography", "communication", "scholarly data", "electronic commerce", "information technology", "social networks", "intelligent buildings"]
+    },
+    "id21": {
+        "syntactic": ["neural networks", "natural language generation"],
+        "semantic": ["dbpedia", "natural languages", "natural language generation", "neural networks", "programming languages"],
+        "union": ["neural networks", "natural languages", "natural language generation", "programming languages", "dbpedia"],
+        "enhanced": ["machine learning", "linguistics", "semantics", "natural language processing", "computational linguistics", "computer programming languages", "linked data"]
+    },
+    "id22": {
+        "syntactic": ["internet", "social computing", "ontology", "cycle", "ontology engineering"],
+        "semantic": ["ontology", "domain ontologies", "engineering", "ontology engineering", "cycle", "internet", "social computing", "collaborative work", "collaborative activities", "ontology development", "formal ontology", "engineering design", "ontology building", "ontology design", "ontology learning", "knowledge engineering", "ontology evaluation", "correlation analysis", "online communities"],
+        "union": ["collaborative work", "engineering", "ontology evaluation", "online communities", "internet", "ontology development", "social computing", "ontology", "engineering design", "ontology building", "correlation analysis", "ontology learning", "cycle", "domain ontologies", "ontology engineering", "formal ontology", "collaborative activities", "knowledge engineering", "ontology design"],
+        "enhanced": ["groupware", "human engineering", "online systems", "computer science", "social networks", "social media", "ubiquitous computing", "interactive computer systems", "semantics", "product design", "mathematics", "planar graph", "semantic web", "knowledge representation", "collaborative learning", "knowledge based systems", "software engineering"]
+    },
+    "id23": {
+        "syntactic": ["linked data", "user interfaces", "technology innovation", "semantic web"],
+        "semantic": ["linked data", "semantic web", "user interfaces", "semantics", "integrated data", "web page", "linked open data", "web of data", "resource description framework", "feature space", "innovative technologies"],
+        "union": ["innovative technologies", "user interfaces", "linked open data", "web page", "feature space", "semantic web", "linked data", "semantics", "resource description framework", "integrated data", "technology innovation", "web of data"],
+        "enhanced": ["service management", "human computer interaction", "world wide web", "pattern recognition", "classification methods", "data handling", "data integration", "engineering research"]
+    },
+    "id24": {
+        "syntactic": ["classifiers", "twitter", "semantics", "social media", "semantic information", "knowledge base"],
+        "semantic": ["classifiers", "semantics", "social media", "twitter", "semantic information", "knowledge base", "correlation analysis", "svm", "automatic classification", "micro-blog"],
+        "union": ["classifiers", "twitter", "automatic classification", "semantics", "svm", "correlation analysis", "micro-blog", "social media", "semantic information", "knowledge base"],
+        "enhanced": ["machine learning", "social networks", "classification methods", "support vector machine", "mathematics", "world wide web", "knowledge based systems"]
+    },
+    "id25": {
+        "syntactic": ["reasoning", "semantic web", "knowledge representation", "temporal logic", "datalog", "streaming data", "ict"],
+        "semantic": ["data stream", "ict", "reasoning", "semantics", "knowledge representation", "semantic web", "datalog", "temporal logic"],
+        "union": ["reasoning", "data stream", "semantic web", "knowledge representation", "temporal logic", "semantics", "datalog", "streaming data", "ict"],
+        "enhanced": ["ontology", "formal languages", "data mining", "data communication systems", "database systems", "world wide web", "knowledge based systems", "formal logic", "logic programming", "query languages", "information and communication technologies"]
+    },
+    "id26": {
+        "syntactic": ["linked data", "servers", "fault tolerance", "semantic web"],
+        "semantic": ["servers", "application servers", "linked data", "semantic web", "fault tolerance", "semantics"],
+        "union": ["servers", "application servers", "semantic web", "linked data", "semantics", "fault tolerance"],
+        "enhanced": ["world wide web", "security of data", "data handling", "software quality", "fault tolerant computer systems"]
+    },
+    "id27": {
+        "syntactic": ["semantics", "inference"],
+        "semantic": ["inference", "color images", "reference image", "digital image", "semantics"],
+        "union": ["digital image", "semantics", "color images", "reference image", "inference"],
+        "enhanced": ["image analysis", "image processing", "pattern recognition", "color image processing", "image matching", "image quality", "inference engines"]
+    },
+    "id28": {
+        "syntactic": ["document similarity", "semantic similarity", "semantics", "natural language processing", "wordnet", "part of speech", "pos tagging"],
+        "semantic": ["pos tagging", "semantics", "semantic similarity", "document similarity", "natural language processing", "wordnet", "electronic document", "text document"],
+        "union": ["electronic document", "document similarity", "semantic similarity", "semantics", "natural language processing", "wordnet", "part of speech", "pos tagging", "text document"],
+        "enhanced": ["word processing", "document clustering", "ontology", "artificial intelligence", "natural languages", "lexical database", "lexical semantics", "text mining", "information retrieval systems"]
+    },
+    "id29": {
+        "syntactic": ["learning", "language model", "semantics", "deep learning", "explicit knowledge", "retrieval performance", "information retrieval", "semantic information"],
+        "semantic": ["electronic document", "language model", "semantics", "semantic information", "retrieval performance", "information retrieval", "explicit knowledge", "learning", "deep learning"],
+        "union": ["electronic document", "learning", "language model", "semantics", "deep learning", "explicit knowledge", "retrieval performance", "information retrieval", "semantic information"],
+        "enhanced": ["word processing", "education", "computational linguistics", "speech recognition", "neural networks", "tacit knowledge", "information retrieval systems", "computer science"]
+    },
+    "id30": {
+        "syntactic": ["query logs", "recommendation", "semantic search"],
+        "semantic": ["recommendation", "semantics", "semantic search", "ensemble classifiers", "query logs"],
+        "union": ["semantics", "recommendation", "query logs", "ensemble classifiers", "semantic search"],
+        "enhanced": ["recommender systems", "query processing", "web searches", "decision trees", "classification methods", "semantic web", "ontology", "search engines"]
+    },
+    "id31": {
+        "syntactic": ["data protection", "linked data", "ontology", "data management", "html", "personal data", "vocabulary"],
+        "semantic": ["integrated data", "linked data", "data protection", "personal data", "data management", "ontology", "html", "vocabulary"],
+        "union": ["data protection", "linked data", "ontology", "data management", "integrated data", "html", "personal data", "vocabulary"],
+        "enhanced": ["privacy", "cryptography", "semantic web", "data handling", "semantics", "information management", "data integration", "xml", "user interfaces", "personal information", "linguistics"]
+    },
+    "id32": {
+        "syntactic": ["learning", "background knowledge", "factorization methods", "recommendation", "knowledge transfer"],
+        "semantic": ["learning", "recommendation", "factorization", "background knowledge", "knowledge transfer"],
+        "union": ["learning", "background knowledge", "factorization", "factorization methods", "recommendation", "knowledge transfer"],
+        "enhanced": ["education", "knowledge representation", "matrix algebra", "recommender systems", "knowledge management"]
+    },
+    "id33": {
+        "syntactic": ["semantics", "information loss", "graph structures", "frequencies"],
+        "semantic": ["micro-blog", "semantics", "frequencies", "information loss", "viewpoint", "syntactic structure"],
+        "union": ["syntactic structure", "graph structures", "semantics", "information loss", "viewpoint", "micro-blog", "frequencies"],
+        "enhanced": ["natural language processing", "syntactics", "graphic methods", "data privacy", "software architecture", "twitter", "bandwidth"]
+    },
+    "id34": {
+        "syntactic": ["web ontology language", "linked data", "geo-spatial", "ontology", "sensors", "information systems", "dbpedia", "semantic information"],
+        "semantic": ["geo-spatial", "gis", "dbpedia", "information systems", "linked data", "ontology", "web ontology language", "sensors", "semantics"],
+        "union": ["web ontology language", "gis", "linked data", "semantics", "geo-spatial", "ontology", "sensors", "information systems", "dbpedia", "semantic information"],
+        "enhanced": ["semantic web", "description logic", "software", "data handling", "computer hardware", "computer systems"]
+    },
+    "id35": {
+        "syntactic": ["event logs", "relational learning", "embeddings", "learning"],
+        "semantic": ["learning", "directed graphs", "weighted graph", "relational learning", "event logs"],
+        "union": ["learning", "relational learning", "weighted graph", "directed graphs", "event logs", "embeddings"],
+        "enhanced": ["education", "inductive logic programming (ilp)", "data mining", "graphic methods", "graph theory", "process mining", "planar graph"]
+    },
+    "id36": {
+        "syntactic": ["design decisions", "software engineering", "ontology", "software", "explicit knowledge", "architectural knowledge", "architecture knowledge management", "software reengineering", "design patterns"],
+        "semantic": ["software", "engineering", "software engineering", "software reengineering", "design decisions", "architectural knowledge", "design patterns", "knowledge management", "architecture knowledge management", "ontology", "enterprise information system", "architecture designs", "search engines", "software architecture patterns", "design rationale", "domain knowledge", "explicit knowledge", "tacit knowledge", "architectural models", "directed graphs", "weighted graph", "semantic distance", "component", "software project", "computer hardware", "keyword-based search", "web searches", "architectural strategies", "architecture documentation", "software process models", "product derivation", "search process"],
+        "union": ["enterprise information system", "domain knowledge", "software architecture patterns", "architectural strategies", "directed graphs", "ontology", "computer hardware", "search engines", "explicit knowledge", "architectural knowledge", "product derivation", "software reengineering", "design patterns", "component", "tacit knowledge", "semantic distance", "architecture designs", "software", "web searches", "engineering", "search process", "keyword-based search", "architecture knowledge management", "architecture documentation", "weighted graph", "design decisions", "software engineering", "knowledge management", "architectural models", "software process models", "software project", "design rationale"],
+        "enhanced": ["information systems", "knowledge based systems", "software architecture", "graph theory", "semantics", "computer science", "world wide web", "software product line", "reengineering", "object oriented programming", "semantic similarity", "online searching", "evolutionary algorithms", "keyword search", "architecting", "architecture description", "graphic methods", "software design"]
+    },
+    "id37": {
+        "syntactic": ["event logs", "relational learning", "embeddings", "learning"],
+        "semantic": ["learning", "directed graphs", "weighted graph", "relational learning", "event logs"],
+        "union": ["learning", "relational learning", "weighted graph", "directed graphs", "event logs", "embeddings"],
+        "enhanced": ["education", "inductive logic programming (ilp)", "data mining", "graphic methods", "graph theory", "process mining", "planar graph"]
+    },
+    "id38": {
+        "syntactic": ["design decisions", "software engineering", "ontology", "software", "explicit knowledge", "architectural knowledge", "architecture knowledge management", "software reengineering", "design patterns"],
+        "semantic": ["software", "engineering", "software engineering", "software reengineering", "design decisions", "architectural knowledge", "design patterns", "knowledge management", "architecture knowledge management", "ontology"],
+        "union": ["engineering", "design decisions", "software engineering", "ontology", "knowledge management", "software", "explicit knowledge", "architectural knowledge", "architecture knowledge management", "software reengineering", "design patterns"],
+        "enhanced": ["computer science", "semantics", "knowledge based systems", "tacit knowledge", "software architecture", "architecting", "reengineering", "object oriented programming"]
+    },
+    "id39": {
+        "syntactic": ["clustering scheme", "parallel implementations", "clustering algorithms"],
+        "semantic": ["clustering algorithms", "clustering methods", "clustering scheme", "parallel implementations", "hier-archical clustering"],
+        "union": ["parallel implementations", "clustering methods", "clustering scheme", "clustering algorithms", "hier-archical clustering"],
+        "enhanced": ["program processors", "parallel algorithms", "parallel architectures", "network lifetime", "cluster head", "wireless sensor networks", "data mining", "cluster analysis", "hierarchical system"]
+    },
+    "id40": {
+        "syntactic": ["neural networks", "relational data models", "factorization", "question answering", "link prediction", "dbpedia", "information retrieval", "knowledge base", "inference"],
+        "semantic": ["relational data models", "directed graphs", "weighted graph", "question answering", "information retrieval", "dbpedia", "knowledge base", "neural networks", "factorization", "link prediction", "inference", "network architecture", "probabilistic inference"],
+        "union": ["neural networks", "relational data models", "weighted graph", "probabilistic inference", "directed graphs", "factorization", "question answering", "link prediction", "dbpedia", "information retrieval", "network architecture", "knowledge base", "inference"],
+        "enhanced": ["machine learning", "relational database", "graphic methods", "inference engines", "bayesian networks", "probability distributions", "graph theory", "matrix algebra", "natural language processing", "computational linguistics", "social networks", "linked data", "computer science", "network protocols", "knowledge based systems"]
+    },
+    "id41": {
+        "syntactic": ["sentiment analysis", "ontology", "domain knowledge", "machine learning"],
+        "semantic": ["ontology", "sentiment analysis", "domain knowledge", "learning", "machine learning"],
+        "union": ["learning", "domain knowledge", "machine learning", "ontology", "sentiment analysis"],
+        "enhanced": ["education", "knowledge based systems", "artificial intelligence", "semantics", "natural language processing", "computational linguistics", "data mining"]
+    },
+    "id42": {
+        "syntactic": ["component", "performance analysis", "dynamic composition", "reusable components", "question answering", "reusability", "qa system"],
+        "semantic": ["reusability", "component", "question answering", "dynamic composition", "reusable components"],
+        "union": ["component", "performance analysis", "reusable components", "question answering", "reusability", "dynamic composition", "qa system"],
+        "enhanced": ["software", "architecture analysis", "computer software reusability", "natural language processing", "computational linguistics", "information retrieval", "service compositions"]
+    },
+    "id43": {
+        "syntactic": ["semantic web", "semantic web services", "sparql", "rdf data", "query languages"],
+        "semantic": ["query processing", "sparql", "resource description framework", "rdf graph", "rdf data", "semantics", "semantic web", "semantic web services"],
+        "union": ["rdf graph", "semantic web", "semantics", "semantic web services", "sparql", "rdf data", "resource description framework", "query languages", "query processing"],
+        "enhanced": ["world wide web", "information theory", "database systems", "search engines"]
+    },
+    "id44": {
+        "syntactic": ["ontology merging", "query rewritings", "ontology matching", "ontology"],
+        "semantic": ["ontology", "ontology matching", "ontology merging", "query rewritings", "matching algorithm", "domain ontologies"],
+        "union": ["matching algorithm", "query rewritings", "ontology", "domain ontologies", "ontology matching", "ontology merging"],
+        "enhanced": ["image matching", "query processing", "semantics", "semantic web"]
+    },
+    "id45": {
+        "syntactic": ["linked open data", "semantic web", "linked data", "semantics", "rdf data", "human factors", "network services"],
+        "semantic": ["semantics", "semantic web", "human factors", "linked open data", "linked data", "resource description framework", "rdf data"],
+        "union": ["linked open data", "semantic web", "linked data", "semantics", "rdf data", "resource description framework", "human factors", "network services"],
+        "enhanced": ["world wide web", "data handling", "query processing", "human engineering", "network management"]
+    },
+    "id46": {
+        "syntactic": ["reasoning", "web ontology language", "resource-constrained", "semantic web", "semantics", "bandwidth", "embedded", "rule based reasoning", "computer hardware", "ontology", "optimization", "mobile platform"],
+        "semantic": ["semantics", "reasoning", "mobile platform", "computer hardware", "bandwidth", "ontology", "web ontology language", "semantic web", "optimization", "random access memory", "mobile devices", "semantic web rule languages", "ontology language", "rule base", "knowledge representation and reasoning", "adaptive algorithms", "hybrid algorithms", "semantic information", "syntactics", "hardware platform", "computing resource", "mobile networks", "location-aware", "mobile terminal", "mobile users", "hand held device", "domain ontologies", "formal ontology"],
+        "union": ["knowledge representation and reasoning", "adaptive algorithms", "web ontology language", "resource-constrained", "computing resource", "bandwidth", "embedded", "ontology", "computer hardware", "mobile devices", "location-aware", "rule base", "syntactics", "semantics", "mobile networks", "domain ontologies", "reasoning", "hardware platform", "semantic web", "mobile users", "rule based reasoning", "optimization", "mobile platform", "random access memory", "formal ontology", "ontology language", "hand held device", "mobile terminal", "hybrid algorithms", "semantic web rule languages", "semantic information"],
+        "enhanced": ["logic programming", "knowledge representation", "signal processing", "description logic", "sensor networks", "wireless sensor networks", "telecommunication equipment", "cloud computing", "embedded software", "computer science", "mobile computing", "location based services", "ubiquitous computing", "fuzzy inference", "knowledge based systems", "computational linguistics", "mobile telecommunication systems", "network protocols", "formal languages", "embedded systems", "world wide web", "global system for mobile communications", "case based reasoning", "mathematics", "robots", "mobile phones", "random access storage", "query languages", "hand held computers", "evolutionary algorithms", "particle swarm optimization (pso)"]
+    },
+    "id47": {
+        "syntactic": ["sql", "semantics", "ontology", "sparql", "sparql queries", "query evaluation", "relational database", "query results", "database systems", "data integration"],
+        "semantic": ["ontology", "data integration", "database systems", "relational database", "sparql", "sparql queries", "query results", "query processing", "query evaluation", "sql", "semantics"],
+        "union": ["sql", "semantics", "query processing", "ontology", "sparql", "sparql queries", "query evaluation", "relational database", "query results", "database systems", "data integration"],
+        "enhanced": ["search engines", "query languages", "resource description framework", "knowledge based systems", "computer systems", "data handling"]
+    },
+    "id48": {
+        "syntactic": ["component", "syntactic structure", "sparql", "sparql queries", "question answering", "named entity recognition", "relation extraction", "knowledge base"],
+        "semantic": ["knowledge base", "component", "named entity recognition", "relation extraction", "sparql", "sparql queries", "question answering", "resource description framework", "rdf graph", "query results", "query processing", "keyword queries"],
+        "union": ["component", "syntactic structure", "rdf graph", "sparql", "keyword queries", "resource description framework", "sparql queries", "question answering", "named entity recognition", "relation extraction", "query results", "query processing", "knowledge base"],
+        "enhanced": ["software", "natural language processing", "syntactics", "keyword search", "semantic web", "computational linguistics", "information retrieval", "information extraction", "search engines", "query languages", "knowledge based systems"]
+    },
+    "id49": {
+        "syntactic": ["linked data", "social sciences", "linked open data", "database systems"],
+        "semantic": ["linked data", "linked open data", "resource description framework", "database systems", "rdf data", "social sciences", "integrated data", "web of data", "semantic web", "search process", "search engines", "innovative technologies", "user information"],
+        "union": ["innovative technologies", "linked open data", "search process", "semantic web", "linked data", "rdf data", "resource description framework", "user information", "integrated data", "search engines", "social sciences", "database systems", "web of data"],
+        "enhanced": ["service management", "evolutionary algorithms", "world wide web", "semantics", "data handling", "query processing", "recommender systems", "personal information", "data integration", "sociology", "computer systems"]
+    },
+    "id50": {
+        "syntactic": ["neural networks", "twitter", "investments", "social media", "recurrent networks"],
+        "semantic": ["twitter", "micro-blog", "social media", "neural networks", "investments", "recurrent networks"],
+        "union": ["neural networks", "twitter", "investments", "micro-blog", "social media", "recurrent networks"],
+        "enhanced": ["machine learning", "social networks", "economics", "world wide web", "backpropagation algorithm", "recurrent neural networks"]
+    }
+}

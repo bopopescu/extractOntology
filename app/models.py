@@ -15,5 +15,6 @@ def dataProcess(datas):
     return CSOToResult(CSO.run_cso_classifier_batch_mode(paper,workers=1,modules="both",enhancement="first"))
 
 def CSOToResult(data):
-    print(data)
-    return 0
+    with open('app/static/data.json', 'w') as outfile:
+        json.dump(data, outfile)
+    return ""

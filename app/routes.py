@@ -23,6 +23,8 @@ def generate_graph():
 def my_form_post():
     documents = dumps(mongo.db[request.form['articles']].find({}))
     if request.form['choice']=="tree":
+        dataProcess(documents)
+        return 0
         json_url=os.path.join(os.path.realpath(os.path.dirname(__file__)),"static","flare.json")
         jsonData = json.load(open(json_url))
         return render_template("result.html",title="result",form=request.form['articles'], jsonData=jsonData)
