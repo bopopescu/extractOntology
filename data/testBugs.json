@@ -1,0 +1,231 @@
+[{
+    '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot',
+    'http://cso.kmi.open.ac.uk/schema/cso#relatedEquivalent': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robotic'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robotics'
+    }],
+    'http://cso.kmi.open.ac.uk/schema/cso#superTopicOf': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/motion_planning'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/intelligent_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/robot_applications'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/real_time_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/real-time_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/biped_locomotion'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/trajectory_tracking'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/odometry'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/range_finders'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/formation_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/omnidirectional_mobile_robot'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/walking_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/walking_robot'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/navigation_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/navigation_system'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/wheeled_mobile_robot'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/wheeled_mobile_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/simultaneous_localization_and_mapping'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/simultaneous_localization_and_mapping_%28slam%29'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/non-holonomic_mobile_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/nonholonomic_mobile_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/autonomous_robot'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/autonomous_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/ultrasonic_sensors'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/ultrasonic_sensor'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/visual_odometry'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sonar_sensor'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/automated_guided_vehicles'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/nonholonomic_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/nonholonomic_system'
+    }],
+    'http://cso.kmi.open.ac.uk/schema/cso#contributesTo': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/remote_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sonar'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sensor_networks'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sensor_network'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/multipurpose_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/anthropomorphic_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/end_effectors'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/inverse_kinematics'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/dead_reckoning'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mechanical_design'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/manipulators'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/manipulator'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_platform'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_platforms'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/parallel_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/parallel_robot'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/robot_designs'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/robot_design'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/degrees_of_freedom_%28mechanics%29'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/degrees_of_freedom'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sliding_mode_control_%28smc%29'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sliding_mode_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/sliding-mode_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/swarm_robotics'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/robot_behavior'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/target_position'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/people_tracking'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/force_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/universal_joints'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/robotic_assembly'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/modular_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/impedance_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/servomechanisms'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/forward_kinematics'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/configuration_space'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/trajectory_planning'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/robot_motion_planning'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/single_robots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/teleoperation_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/teleoperated'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/intelligent_mechatronics'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/optimal_path_planning'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/pneumatic_control'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/range_finding'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/parallel_mechanisms'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/parallel_mechanism'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/multirobots'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/multi-robot'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/path_planning_problems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/path_planning_method'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/tele-operation'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/teleoperation'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/tele-operations'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/multirobot_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/multi-robot_systems'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/multi-robot_system'
+    }, {
+        '@id': 'https://cso.kmi.open.ac.uk/topics/range_measurements'
+    }],
+    'http://www.w3.org/2000/01/rdf-schema#label': [{
+        '@value': 'mobile robot'
+    }],
+    '@type': ['http://cso.kmi.open.ac.uk/schema/cso#Topic'],
+    'http://cso.kmi.open.ac.uk/schema/cso#preferentialEquivalent': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robots'
+    }],
+    'http://schema.org/relatedLink': [{
+        '@id': 'https://academic.microsoft.com/#/detail/26990112'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robotic',
+    'http://cso.kmi.open.ac.uk/schema/cso#relatedEquivalent': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robotics',
+    'http://cso.kmi.open.ac.uk/schema/cso#relatedEquivalent': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robots',
+    'http://cso.kmi.open.ac.uk/schema/cso#relatedEquivalent': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/robot',
+    'http://cso.kmi.open.ac.uk/schema/cso#contributesTo': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/robotics',
+    'http://cso.kmi.open.ac.uk/schema/cso#superTopicOf': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/robots',
+    'http://cso.kmi.open.ac.uk/schema/cso#contributesTo': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}, {
+    '@id': 'https://cso.kmi.open.ac.uk/topics/sensors',
+    'http://cso.kmi.open.ac.uk/schema/cso#contributesTo': [{
+        '@id': 'https://cso.kmi.open.ac.uk/topics/mobile_robot'
+    }]
+}]

@@ -1,0 +1,169 @@
+[{
+        "@id": "https://cso.kmi.open.ac.uk/topics/cad",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer-aided_design",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design_%28cad%29",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+                "@id": "https://cso.kmi.open.ac.uk/topics/machining"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/computer_integrated_manufacturing"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/process_planning"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/cam"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/mass_customization"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/reconfigurable_manufacturing_system"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/feature_recognition"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/layered_manufacturing"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/cad%2Fcam"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/cad%2Fcams"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/assembly_planning"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [{
+            "@value": "computer aided manufacturing"
+        }],
+        "@type": [
+            "http://cso.kmi.open.ac.uk/schema/cso#Topic"
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [{
+                "@id": "http://dbpedia.org/resource/Computer-aided_manufacturing"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q660192"
+            },
+            {
+                "@id": "http://rdf.freebase.com/ns/m.015k34"
+            }
+        ],
+        "http://schema.org/relatedLink": [{
+                "@id": "https://academic.microsoft.com/#/detail/180539650"
+            },
+            {
+                "@id": "http://en.wikipedia.org/wiki/Computer-aided_manufacturing"
+            }
+        ]
+    }
+][{
+        "@id": "https://cso.kmi.open.ac.uk/topics/cad",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer-aided_design",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design_%28cad%29",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+            "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing"
+        }]
+    },
+    {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing",
+        "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+                "@id": "https://cso.kmi.open.ac.uk/topics/machining"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/computer_integrated_manufacturing"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/process_planning"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/cam"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/mass_customization"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/reconfigurable_manufacturing_system"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/feature_recognition"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/layered_manufacturing"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/cad%2Fcam"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/cad%2Fcams"
+            },
+            {
+                "@id": "https://cso.kmi.open.ac.uk/topics/assembly_planning"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [{
+            "@value": "computer aided manufacturing"
+        }],
+        "@type": [
+            "http://cso.kmi.open.ac.uk/schema/cso#Topic"
+        ],
+        "http://www.w3.org/2002/07/owl#sameAs": [{
+                "@id": "http://dbpedia.org/resource/Computer-aided_manufacturing"
+            },
+            {
+                "@id": "http://www.wikidata.org/entity/Q660192"
+            },
+            {
+                "@id": "http://rdf.freebase.com/ns/m.015k34"
+            }
+        ],
+        "http://schema.org/relatedLink": [{
+                "@id": "https://academic.microsoft.com/#/detail/180539650"
+            },
+            {
+                "@id": "http://en.wikipedia.org/wiki/Computer-aided_manufacturing"
+            }
+        ]
+    }
+]

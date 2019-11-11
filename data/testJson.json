@@ -1,91 +1,30 @@
 [{
-    "@id": "https://cso.kmi.open.ac.uk/topics/computer_science",
-    "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
-        "@id": "https://cso.kmi.open.ac.uk/topics/artificial_intelligence"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/robotics"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_vision"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/hardware"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_operating_systems"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_networks"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/bioinformatics"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/software_engineering"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/information_technology"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/data_mining"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/information_retrieval"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_programming"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/human_computer_interaction"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/human-computer_interaction"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer-aided_design"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_security"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_system"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_systems"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/internet"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_hardware"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/software"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/formal_languages"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_network"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_communication_networks"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/operating_system"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/operating_systems"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/cad"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design_%28cad%29"
-    }],
-    "http://cso.kmi.open.ac.uk/schema/cso#contributesTo": [{
-        "@id": "https://cso.kmi.open.ac.uk/topics/image_segmentation"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/communication"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/information_theory"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/sensors"
-    }, {
-        "@id": "https://cso.kmi.open.ac.uk/topics/visualization"
-    }],
-    "http://www.w3.org/2000/01/rdf-schema#label": [{
-        "@value": "computer science"
-    }],
-    "@type": ["http://cso.kmi.open.ac.uk/schema/cso#Topic"],
-    "http://www.w3.org/2002/07/owl#sameAs": [{
+    "id": "https://cso.kmi.open.ac.uk/topics/computer_science",
+    "resource": [{
         "@id": "http://dbpedia.org/resource/Computer_science"
     }, {
         "@id": "http://www.wikidata.org/entity/Q21198"
     }, {
         "@id": "http://rdf.freebase.com/ns/m.01mkq"
     }],
-    "http://schema.org/relatedLink": [{
-        "@id": "https://academic.microsoft.com/#/detail/556297831"
+    "name": "computer science",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/software_engineering", "https://cso.kmi.open.ac.uk/topics/computer_hardware", "https://cso.kmi.open.ac.uk/topics/computer_security", "https://cso.kmi.open.ac.uk/topics/computer_communication_networks", "https://cso.kmi.open.ac.uk/topics/computer_vision", "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science", "https://cso.kmi.open.ac.uk/topics/computer_aided_design", "https://cso.kmi.open.ac.uk/topics/data_mining", "https://cso.kmi.open.ac.uk/topics/software", "https://cso.kmi.open.ac.uk/topics/computer_aided_design_%28cad%29", "https://cso.kmi.open.ac.uk/topics/computer-aided_design", "https://cso.kmi.open.ac.uk/topics/hardware", "https://cso.kmi.open.ac.uk/topics/cad", "https://cso.kmi.open.ac.uk/topics/artificial_intelligence", "https://cso.kmi.open.ac.uk/topics/formal_languages", "https://cso.kmi.open.ac.uk/topics/computer_networks", "https://cso.kmi.open.ac.uk/topics/operating_systems", "https://cso.kmi.open.ac.uk/topics/computer_system", "https://cso.kmi.open.ac.uk/topics/bioinformatics", "https://cso.kmi.open.ac.uk/topics/human_computer_interaction", "https://cso.kmi.open.ac.uk/topics/information_technology", "https://cso.kmi.open.ac.uk/topics/internet", "https://cso.kmi.open.ac.uk/topics/computer_programming", "https://cso.kmi.open.ac.uk/topics/computer_operating_systems", "https://cso.kmi.open.ac.uk/topics/computer_systems", "https://cso.kmi.open.ac.uk/topics/operating_system", "https://cso.kmi.open.ac.uk/topics/human-computer_interaction", "https://cso.kmi.open.ac.uk/topics/computer_network", "https://cso.kmi.open.ac.uk/topics/robotics", "https://cso.kmi.open.ac.uk/topics/information_retrieval"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_design",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_design"
     }, {
-        "@id": "http://en.wikipedia.org/wiki/Computer_science"
-    }]
+        "@id": "http://www.wikidata.org/entity/Q184793"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.099f0"
+    }, {
+        "@id": "http://sw.cyc.com/concept/Mx4rvVj3_JwpEbGdrcN5Y29ycA"
+    }],
+    "name": "computer-aided design",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/drawings", "https://cso.kmi.open.ac.uk/topics/b-spline", "https://cso.kmi.open.ac.uk/topics/cad_tool", "https://cso.kmi.open.ac.uk/topics/computer_aided_manufacturing", "https://cso.kmi.open.ac.uk/topics/geometric_modelling", "https://cso.kmi.open.ac.uk/topics/drawing_%28graphics%29", "https://cso.kmi.open.ac.uk/topics/design_automations", "https://cso.kmi.open.ac.uk/topics/process_variations", "https://cso.kmi.open.ac.uk/topics/spline", "https://cso.kmi.open.ac.uk/topics/splines", "https://cso.kmi.open.ac.uk/topics/soft_error", "https://cso.kmi.open.ac.uk/topics/high_level_synthesis", "https://cso.kmi.open.ac.uk/topics/computer_aided", "https://cso.kmi.open.ac.uk/topics/rapid_prototyping", "https://cso.kmi.open.ac.uk/topics/geometric_modeling", "https://cso.kmi.open.ac.uk/topics/b_splines", "https://cso.kmi.open.ac.uk/topics/integrated_circuit_layout", "https://cso.kmi.open.ac.uk/topics/equivalence_checking", "https://cso.kmi.open.ac.uk/topics/clock_tree", "https://cso.kmi.open.ac.uk/topics/design_automation", "https://cso.kmi.open.ac.uk/topics/geometric_models", "https://cso.kmi.open.ac.uk/topics/high-level_synthesis", "https://cso.kmi.open.ac.uk/topics/b-splines", "https://cso.kmi.open.ac.uk/topics/logic_synthesis", "https://cso.kmi.open.ac.uk/topics/static_timing_analysis", "https://cso.kmi.open.ac.uk/topics/cad_models", "https://cso.kmi.open.ac.uk/topics/process_variation", "https://cso.kmi.open.ac.uk/topics/computer_aided_geometric_design", "https://cso.kmi.open.ac.uk/topics/computer_aided_engineering", "https://cso.kmi.open.ac.uk/topics/soft_errors", "https://cso.kmi.open.ac.uk/topics/product_design", "https://cso.kmi.open.ac.uk/topics/digital_integrated_circuits", "https://cso.kmi.open.ac.uk/topics/cae", "https://cso.kmi.open.ac.uk/topics/vlsi_design", "https://cso.kmi.open.ac.uk/topics/cad_system"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/b-splines",
+    "resource": "null",
+    "name": "b-splines",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/thin_plate_spline", "https://cso.kmi.open.ac.uk/topics/spline_interpolation", "https://cso.kmi.open.ac.uk/topics/ship_propellers", "https://cso.kmi.open.ac.uk/topics/cubic_b_-spline", "https://cso.kmi.open.ac.uk/topics/cubic-spline_interpolation", "https://cso.kmi.open.ac.uk/topics/control_points", "https://cso.kmi.open.ac.uk/topics/b_spline_functions", "https://cso.kmi.open.ac.uk/topics/cubic_spline_interpolation", "https://cso.kmi.open.ac.uk/topics/spline_surfaces", "https://cso.kmi.open.ac.uk/topics/cubic_spline", "https://cso.kmi.open.ac.uk/topics/spline_functions", "https://cso.kmi.open.ac.uk/topics/nurbs", "https://cso.kmi.open.ac.uk/topics/control_point", "https://cso.kmi.open.ac.uk/topics/cubic_splines"]
 }]
