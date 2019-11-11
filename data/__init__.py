@@ -4,6 +4,7 @@
 # # print(output)
 import pandas as pd
 from py2neo import *
+import json
 import math
 def convertToNumber (s):
     return int.from_bytes(s.encode(), 'little')
@@ -23,6 +24,9 @@ for index,data in df.iteritems():
     df[index] = df[index].str.replace("cso#","")
     df[index] = df[index].str.replace("-", "_")
     df[index] = df[index].str.extract(r".*\/(\w+(?:\.\w+)?)[?\.]?")
+
+
+'''
 for index,row in df.iterrows():
     tx = graph.begin()
     node1=Node('Ontology',name=row[0])
@@ -39,4 +43,23 @@ for index,row in df.iterrows():
     print(index)
     tx.commit()
 
+def reversedDic(dic):
+    newDic=dict()
+    for key,value in dic.items():
+        if value in newDic:
+            newDic[value] = str(newDic[value])+","+str(key)
+        else:
+            newDic[value]=str(key)
+    return newDic
+newJson=dict()
+for index,data in df.iteritems():
+    newJson[index]=reversedDic(df[index].to_dict())
+with open('dataJson.json','w') as fp:
+    json.dump(newJson,fp)
+'''
+tx=graph.begin()
+for index,row in df.iterrows():
+    tx.evaluate('''
+    MATCH (a:)
+    ''') 
 print("finished load data")

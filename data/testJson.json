@@ -1,0 +1,91 @@
+[{
+    "@id": "https://cso.kmi.open.ac.uk/topics/computer_science",
+    "http://cso.kmi.open.ac.uk/schema/cso#superTopicOf": [{
+        "@id": "https://cso.kmi.open.ac.uk/topics/artificial_intelligence"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/robotics"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_vision"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/hardware"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_operating_systems"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_networks"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/bioinformatics"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/software_engineering"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/information_technology"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/data_mining"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/information_retrieval"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_programming"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/human_computer_interaction"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/human-computer_interaction"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer-aided_design"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_security"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_system"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_systems"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/internet"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_hardware"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/software"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/formal_languages"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_network"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_communication_networks"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/operating_system"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/operating_systems"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/cad"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/computer_aided_design_%28cad%29"
+    }],
+    "http://cso.kmi.open.ac.uk/schema/cso#contributesTo": [{
+        "@id": "https://cso.kmi.open.ac.uk/topics/image_segmentation"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/communication"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/information_theory"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/sensors"
+    }, {
+        "@id": "https://cso.kmi.open.ac.uk/topics/visualization"
+    }],
+    "http://www.w3.org/2000/01/rdf-schema#label": [{
+        "@value": "computer science"
+    }],
+    "@type": ["http://cso.kmi.open.ac.uk/schema/cso#Topic"],
+    "http://www.w3.org/2002/07/owl#sameAs": [{
+        "@id": "http://dbpedia.org/resource/Computer_science"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q21198"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mkq"
+    }],
+    "http://schema.org/relatedLink": [{
+        "@id": "https://academic.microsoft.com/#/detail/556297831"
+    }, {
+        "@id": "http://en.wikipedia.org/wiki/Computer_science"
+    }]
+}]
