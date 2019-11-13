@@ -4,13 +4,21 @@ https://10-0-1-182-35078.neo4jsandbox.com/browser/
 
 https://guides.neo4j.com/wiki
 
+Load wikipedia data
+
+'''
+MATCH (c) DETACH DELETE c
+
+'''
+
+
 ```
 
 CREATE INDEX ON: Category(catId)
 
 CREATE INDEX ON: Category(catName)
 
-CREATE (c:Category:RootCategory {catId:0, catName:'Areas of computer science', fetched:false, level:0})
+CREATE (c:Category:RootCategory {catId:0, catName:'Areas of computer science',  fetched:false, level:0})
 
 :param level:1
 
@@ -30,6 +38,19 @@ MATCH (n)
 DETACH DELETE n
 
 ```
+
+load CSV data
+
+
+'''
+USING PERIODIC COMMIT 50000
+LOAD CSV WITH HEADERS FROM "file:///CSO.3.1.csv" AS row
+WITH DISTINCT row.`father` AS ontology_name
+MERGE (c:Ontology {name:ontology_name})
+
+CREATE CONSTRAINT ON(c:Ontology) ASSERT c.name IS UNIQUE
+
+'''
 
 
 d3.js visualization

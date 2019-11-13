@@ -1,16 +1,23 @@
 import requests
 import json
 from pymongo import MongoClient
-
+import time
 
 def getJson(urls):
     if len(urls):
+        nextUrls=[]
         for url in urls:
-            print(url)
+            time.sleep(1)
+            print('THIS IS THE URL YOU NEED RUN',url)
+            if "http" not in str(url):
+                continue
             resp = requests.get(url=url)
-            data = resp.json()
+            try:
+                data = resp.json()
+            except:
+                continue
             if len(data):
-                print(data)
+                # print(data)
                 index=0
                 for i in range(len(data)):
                     if data[i]['@id']==url.replace('.json',''):
@@ -23,11 +30,19 @@ def getJson(urls):
                         "name": data[index]["http://www.w3.org/2000/01/rdf-schema#label"][0]['@value'],
                         "relationship": list(set([record['@id'] for record in data[index]['http://cso.kmi.open.ac.uk/schema/cso#superTopicOf']])) if 'http://cso.kmi.open.ac.uk/schema/cso#superTopicOf' in data[index] else 'null'
                     })
-                    return getJson(list(set([record['@id']+'.json' for record in data[index]['http://cso.kmi.open.ac.uk/schema/cso#superTopicOf']])))
+                    nextUrls.append(getJson(list(set([record['@id']+'.json' for record in data[index]['http://cso.kmi.open.ac.uk/schema/cso#superTopicOf']]))))
                 else:
-                    return 0
-            else:
-                return 0
+                    dataJson.append({
+                        "id": data[index]['@id'],
+                        "resource": data[index]['http://www.w3.org/2002/07/owl#sameAs'] if 'http://www.w3.org/2002/07/owl#sameAs' in data[index] else "null",
+                        "name": data[index]["http://www.w3.org/2000/01/rdf-schema#label"][0]['@value'],
+                        "relationship": list(set([record['@id'] for record in data[index]['http://cso.kmi.open.ac.uk/schema/cso#superTopicOf']])) if 'http://cso.kmi.open.ac.uk/schema/cso#superTopicOf' in data[index] else 'null'
+                    })
+
+        time.sleep(10)
+        with open('data/runningJson.json', 'w') as fp:
+            json.dump(dataJson, fp)
+        return getJson(nextUrls)
     else:
         return 0
 # def start():

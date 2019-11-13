@@ -1,10 +1,12 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <h1>extract ontology</h1>
+    <h1>Extract Ontology</h1>
     <form method="post">
-        <p>{{ form.articles}}</p>
-        <p>{{ form.choice}}</p>
-        <p>{{ form.submit() }}</p>
+    <label>Please Select Conference</label>
+        {{ form.articles}}
+    <label>Please Select Visualization</label>
+        {{ form.choice}}
+        {{ form.submit() }}
     </form>
 {% endblock %}

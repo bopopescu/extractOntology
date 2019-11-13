@@ -1,0 +1,1879 @@
+[{
+    "id": "https://cso.kmi.open.ac.uk/topics/computer_science",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer_science"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q21198"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mkq"
+    }],
+    "name": "computer science",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/computer_hardware", "https://cso.kmi.open.ac.uk/topics/software_engineering", "https://cso.kmi.open.ac.uk/topics/formal_languages", "https://cso.kmi.open.ac.uk/topics/artificial_intelligence", "https://cso.kmi.open.ac.uk/topics/computer_network", "https://cso.kmi.open.ac.uk/topics/computer_operating_systems", "https://cso.kmi.open.ac.uk/topics/data_mining", "https://cso.kmi.open.ac.uk/topics/bioinformatics", "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science", "https://cso.kmi.open.ac.uk/topics/information_technology", "https://cso.kmi.open.ac.uk/topics/information_retrieval", "https://cso.kmi.open.ac.uk/topics/computer_vision", "https://cso.kmi.open.ac.uk/topics/computer_security", "https://cso.kmi.open.ac.uk/topics/computer_system", "https://cso.kmi.open.ac.uk/topics/human_computer_interaction", "https://cso.kmi.open.ac.uk/topics/computer_communication_networks", "https://cso.kmi.open.ac.uk/topics/computer_aided_design_%28cad%29", "https://cso.kmi.open.ac.uk/topics/operating_system", "https://cso.kmi.open.ac.uk/topics/software", "https://cso.kmi.open.ac.uk/topics/hardware", "https://cso.kmi.open.ac.uk/topics/computer_systems", "https://cso.kmi.open.ac.uk/topics/computer_aided_design", "https://cso.kmi.open.ac.uk/topics/computer-aided_design", "https://cso.kmi.open.ac.uk/topics/internet", "https://cso.kmi.open.ac.uk/topics/computer_networks", "https://cso.kmi.open.ac.uk/topics/human-computer_interaction", "https://cso.kmi.open.ac.uk/topics/robotics", "https://cso.kmi.open.ac.uk/topics/computer_programming", "https://cso.kmi.open.ac.uk/topics/operating_systems", "https://cso.kmi.open.ac.uk/topics/cad"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/bioinformatics",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Bioinformatics"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q128570"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01c62"
+    }, {
+        "@id": "http://sw.cyc.com/concept/Mx4r2GnTUd-xSjiSey5NScw76Q"
+    }],
+    "name": "bioinformatics",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/biological_networks", "https://cso.kmi.open.ac.uk/topics/medical_image", "https://cso.kmi.open.ac.uk/topics/genetic_database", "https://cso.kmi.open.ac.uk/topics/biomedical_literature", "https://cso.kmi.open.ac.uk/topics/biomedical_imaging", "https://cso.kmi.open.ac.uk/topics/medical_images", "https://cso.kmi.open.ac.uk/topics/protein_data_bank", "https://cso.kmi.open.ac.uk/topics/medical_imaging", "https://cso.kmi.open.ac.uk/topics/pdb", "https://cso.kmi.open.ac.uk/topics/biofeedback_%28psychology%29", "https://cso.kmi.open.ac.uk/topics/biocommunications", "https://cso.kmi.open.ac.uk/topics/biofeedback"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/biocommunications",
+    "resource": "null",
+    "name": "biocommunications",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/biological_networks",
+    "resource": "null",
+    "name": "biological networks",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q931309"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01j3br"
+    }],
+    "name": "medical images",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasonic_imaging", "https://cso.kmi.open.ac.uk/topics/computerized_tomography", "https://cso.kmi.open.ac.uk/topics/medical_image_processing", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis", "https://cso.kmi.open.ac.uk/topics/digital_mammography", "https://cso.kmi.open.ac.uk/topics/medical_image_fusion", "https://cso.kmi.open.ac.uk/topics/medical_image_registration", "https://cso.kmi.open.ac.uk/topics/medical_computing", "https://cso.kmi.open.ac.uk/topics/medical_image_segmentation", "https://cso.kmi.open.ac.uk/topics/computer_aided_diagnosis", "https://cso.kmi.open.ac.uk/topics/optical_tomography", "https://cso.kmi.open.ac.uk/topics/radiology_information_systems", "https://cso.kmi.open.ac.uk/topics/medical_image_retrieval", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_%28cad%29"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_%28cad%29",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis (cad)",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/microcalcifications", "https://cso.kmi.open.ac.uk/topics/computer-aided_detection", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system", "https://cso.kmi.open.ac.uk/topics/x_ray_screens", "https://cso.kmi.open.ac.uk/topics/microcalcification"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcifications",
+    "resource": "null",
+    "name": "microcalcifications",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_detection",
+    "resource": "null",
+    "name": "computer-aided detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcification",
+    "resource": "null",
+    "name": "microcalcification",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/x_ray_screens",
+    "resource": "null",
+    "name": "x ray screens",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/mammogram", "https://cso.kmi.open.ac.uk/topics/mammographic", "https://cso.kmi.open.ac.uk/topics/mass_detection", "https://cso.kmi.open.ac.uk/topics/mammograms", "https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammogram",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammogram",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mass_detection",
+    "resource": "null",
+    "name": "mass detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis system",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/microcalcifications", "https://cso.kmi.open.ac.uk/topics/computer-aided_detection", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system", "https://cso.kmi.open.ac.uk/topics/x_ray_screens", "https://cso.kmi.open.ac.uk/topics/microcalcification"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcifications",
+    "resource": "null",
+    "name": "microcalcifications",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_detection",
+    "resource": "null",
+    "name": "computer-aided detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcification",
+    "resource": "null",
+    "name": "microcalcification",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/x_ray_screens",
+    "resource": "null",
+    "name": "x ray screens",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/mammogram", "https://cso.kmi.open.ac.uk/topics/mammographic", "https://cso.kmi.open.ac.uk/topics/mass_detection", "https://cso.kmi.open.ac.uk/topics/mammograms", "https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammogram",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammogram",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mass_detection",
+    "resource": "null",
+    "name": "mass detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis system",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer_aided_diagnosis",
+    "resource": "null",
+    "name": "computer aided diagnosis",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/microcalcifications", "https://cso.kmi.open.ac.uk/topics/computer-aided_detection", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system", "https://cso.kmi.open.ac.uk/topics/x_ray_screens", "https://cso.kmi.open.ac.uk/topics/microcalcification"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcifications",
+    "resource": "null",
+    "name": "microcalcifications",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_detection",
+    "resource": "null",
+    "name": "computer-aided detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcification",
+    "resource": "null",
+    "name": "microcalcification",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/x_ray_screens",
+    "resource": "null",
+    "name": "x ray screens",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/mammogram", "https://cso.kmi.open.ac.uk/topics/mammographic", "https://cso.kmi.open.ac.uk/topics/mass_detection", "https://cso.kmi.open.ac.uk/topics/mammograms", "https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammogram",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammogram",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mass_detection",
+    "resource": "null",
+    "name": "mass detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis system",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_computing",
+    "resource": "null",
+    "name": "medical computing",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/records_management", "https://cso.kmi.open.ac.uk/topics/medical_database", "https://cso.kmi.open.ac.uk/topics/personal_health_record", "https://cso.kmi.open.ac.uk/topics/personal_health_records", "https://cso.kmi.open.ac.uk/topics/hospital_data_processing", "https://cso.kmi.open.ac.uk/topics/telehealth"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_database",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Database"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q8513"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.03cnllj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Database_Software"
+    }],
+    "name": "medical database",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/personal_health_record",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Personal_health_record"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q574552"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.07887m"
+    }],
+    "name": "personal health record",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/telehealth",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Telehealth"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q4923501"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.04dqyb"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Telehealth"
+    }],
+    "name": "telehealth",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/personal_health_records",
+    "resource": "null",
+    "name": "personal health records",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/records_management",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Records_management"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q517656"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.03jgz"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Records_management"
+    }],
+    "name": "records management",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/electronic_health_record_systems", "https://cso.kmi.open.ac.uk/topics/electronic_records", "https://cso.kmi.open.ac.uk/topics/ehr", "https://cso.kmi.open.ac.uk/topics/electronic_health_record_%28ehr%29", "https://cso.kmi.open.ac.uk/topics/health_records"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/health_records",
+    "resource": "null",
+    "name": "health records",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/electronic_health_record_%28ehr%29",
+    "resource": "null",
+    "name": "electronic health record (ehr)",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ehr",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Electronic_health_record"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q10871684"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.048t_2"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Electronic_health_record"
+    }],
+    "name": "ehr",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/electronic_records",
+    "resource": "null",
+    "name": "electronic records",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/electronic_health_record_systems",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Electronic_health_record"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q10871684"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.048t_2"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Electronic_health_record"
+    }],
+    "name": "electronic health record systems",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/hospital_data_processing",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Hospital"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q16917"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0hpnr"
+    }],
+    "name": "hospital data processing",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/patient_data"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/patient_data",
+    "resource": "null",
+    "name": "patient data",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_image_processing",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q931309"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01j3br"
+    }],
+    "name": "medical image processing",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/medical_image_compression"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_image_compression",
+    "resource": "null",
+    "name": "medical image compression",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computerized_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/CT_scan"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q32566"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0dg0w"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/X-ray_computed_tomography"
+    }],
+    "name": "computerized tomography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/target_registration_errors", "https://cso.kmi.open.ac.uk/topics/ct_image", "https://cso.kmi.open.ac.uk/topics/computer-aided_detection", "https://cso.kmi.open.ac.uk/topics/non-rigid_registration", "https://cso.kmi.open.ac.uk/topics/single_photon_emission_computed_tomography_%28spect%29", "https://cso.kmi.open.ac.uk/topics/micro_ct", "https://cso.kmi.open.ac.uk/topics/nonrigid_registration", "https://cso.kmi.open.ac.uk/topics/cone_beam_computed_tomography", "https://cso.kmi.open.ac.uk/topics/x-ray_computed_tomography", "https://cso.kmi.open.ac.uk/topics/image-guided_radiotherapy", "https://cso.kmi.open.ac.uk/topics/ct_images", "https://cso.kmi.open.ac.uk/topics/mdct", "https://cso.kmi.open.ac.uk/topics/cone-beam_computed_tomography", "https://cso.kmi.open.ac.uk/topics/micro-ct", "https://cso.kmi.open.ac.uk/topics/diagnostic_radiography", "https://cso.kmi.open.ac.uk/topics/single_photon_emission_computed_tomography", "https://cso.kmi.open.ac.uk/topics/ct_data", "https://cso.kmi.open.ac.uk/topics/image_guided_radiotherapy", "https://cso.kmi.open.ac.uk/topics/rigid_registration"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/cone-beam_computed_tomography",
+    "resource": "null",
+    "name": "cone-beam computed tomography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/cbct", "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy", "https://cso.kmi.open.ac.uk/topics/cone-beam_ct", "https://cso.kmi.open.ac.uk/topics/igrt", "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided", "https://cso.kmi.open.ac.uk/topics/four_dimensional_computed_tomography", "https://cso.kmi.open.ac.uk/topics/four-dimensional_computed_tomography"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/cbct",
+    "resource": "null",
+    "name": "cbct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy, image-guided",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy setup errors",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy",
+    "resource": "null",
+    "name": "image-guided radiation therapy",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/four-dimensional_computed_tomography",
+    "resource": "null",
+    "name": "four-dimensional computed tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/four_dimensional_computed_tomography",
+    "resource": "null",
+    "name": "four dimensional computed tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/igrt",
+    "resource": "null",
+    "name": "igrt",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/cone-beam_ct",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Cone_beam_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1224951"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0gjdgb8"
+    }],
+    "name": "cone-beam ct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/diagnostic_radiography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q245341"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0nqm4"
+    }],
+    "name": "diagnostic radiography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/positron_annihilation_spectroscopy", "https://cso.kmi.open.ac.uk/topics/electric_impedance_tomography", "https://cso.kmi.open.ac.uk/topics/nuclear_sciences", "https://cso.kmi.open.ac.uk/topics/computed_tomographies"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/nuclear_sciences",
+    "resource": "null",
+    "name": "nuclear sciences",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/spatial_resolution_sr%29", "https://cso.kmi.open.ac.uk/topics/plastic_bottles", "https://cso.kmi.open.ac.uk/topics/energy_resolutions"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/energy_resolutions",
+    "resource": "null",
+    "name": "energy resolutions",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/plastic_bottles",
+    "resource": "null",
+    "name": "plastic bottles",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/spatial_resolution_sr%29",
+    "resource": "null",
+    "name": "spatial resolution sr)",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/positron_annihilation_spectroscopy",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Positron"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q3229"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.065sn"
+    }],
+    "name": "positron annihilation spectroscopy",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/plastic_bottles", "https://cso.kmi.open.ac.uk/topics/positron_annihilation_lifetime_spectroscopy"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/positron_annihilation_lifetime_spectroscopy",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Positron"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q3229"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.065sn"
+    }],
+    "name": "positron annihilation lifetime spectroscopy",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/plastic_bottles",
+    "resource": "null",
+    "name": "plastic bottles",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computed_tomographies",
+    "resource": "null",
+    "name": "computed tomographies",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/electric_impedance_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Electrical_impedance"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q179043"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0bjm_"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Electric_effective_resistance"
+    }],
+    "name": "electric impedance tomography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/electrical_capacitance_tomography", "https://cso.kmi.open.ac.uk/topics/eit"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/electrical_capacitance_tomography",
+    "resource": "null",
+    "name": "electrical capacitance tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/eit",
+    "resource": "null",
+    "name": "eit",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/micro-ct",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/X-ray_microtomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q3042540"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06s_ty"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/X-ray_microtomography"
+    }],
+    "name": "micro-ct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/target_registration_errors",
+    "resource": "null",
+    "name": "target registration errors",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/cone_beam_computed_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Cone_beam_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1224951"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0gjdgb8"
+    }],
+    "name": "cone beam computed tomography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/cbct", "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy", "https://cso.kmi.open.ac.uk/topics/cone-beam_ct", "https://cso.kmi.open.ac.uk/topics/igrt", "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided", "https://cso.kmi.open.ac.uk/topics/four_dimensional_computed_tomography", "https://cso.kmi.open.ac.uk/topics/four-dimensional_computed_tomography"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/cbct",
+    "resource": "null",
+    "name": "cbct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy, image-guided",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy setup errors",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy",
+    "resource": "null",
+    "name": "image-guided radiation therapy",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/four-dimensional_computed_tomography",
+    "resource": "null",
+    "name": "four-dimensional computed tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/four_dimensional_computed_tomography",
+    "resource": "null",
+    "name": "four dimensional computed tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/igrt",
+    "resource": "null",
+    "name": "igrt",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/cone-beam_ct",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Cone_beam_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1224951"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0gjdgb8"
+    }],
+    "name": "cone-beam ct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/rigid_registration",
+    "resource": "null",
+    "name": "rigid registration",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/x-ray_computed_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/CT_scan"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q32566"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0dg0w"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/X-ray_computed_tomography"
+    }],
+    "name": "x-ray computed tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/nonrigid_registration",
+    "resource": "null",
+    "name": "nonrigid registration",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/nonrigid_image_registration"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/nonrigid_image_registration",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Image_registration"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q861092"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.014ct4"
+    }],
+    "name": "nonrigid image registration",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ct_data",
+    "resource": "null",
+    "name": "ct data",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_detection",
+    "resource": "null",
+    "name": "computer-aided detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/image_guided_radiotherapy",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "image guided radiotherapy",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/igrt", "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy", "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy",
+    "resource": "null",
+    "name": "image-guided radiation therapy",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/igrt",
+    "resource": "null",
+    "name": "igrt",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy, image-guided",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy setup errors",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/single_photon_emission_computed_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Single-photon_emission_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q849737"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01qn4r"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Single-photon_emission_computed_tomography"
+    }],
+    "name": "single photon emission computed tomography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/spect_imaging"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/spect_imaging",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Single-photon_emission_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q849737"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01qn4r"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Single-photon_emission_computed_tomography"
+    }],
+    "name": "spect imaging",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ct_image",
+    "resource": "null",
+    "name": "ct image",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/computed_tomographies", "https://cso.kmi.open.ac.uk/topics/liver_segmentation"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/liver_segmentation",
+    "resource": "null",
+    "name": "liver segmentation",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computed_tomographies",
+    "resource": "null",
+    "name": "computed tomographies",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ct_images",
+    "resource": "null",
+    "name": "ct images",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/computed_tomographies", "https://cso.kmi.open.ac.uk/topics/liver_segmentation"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/liver_segmentation",
+    "resource": "null",
+    "name": "liver segmentation",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computed_tomographies",
+    "resource": "null",
+    "name": "computed tomographies",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mdct",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Modified_discrete_cosine_transform"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1268231"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01hnp3"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Modified_discrete_cosine_transform"
+    }],
+    "name": "mdct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/image-guided_radiotherapy",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "image-guided radiotherapy",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/igrt", "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy", "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/image-guided_radiation_therapy",
+    "resource": "null",
+    "name": "image-guided radiation therapy",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/igrt",
+    "resource": "null",
+    "name": "igrt",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy%2C_image-guided",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy, image-guided",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiotherapy_setup_errors",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiation_therapy"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q180507"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.06kmz"
+    }],
+    "name": "radiotherapy setup errors",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/micro_ct",
+    "resource": "null",
+    "name": "micro ct",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/single_photon_emission_computed_tomography_%28spect%29",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Single-photon_emission_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q849737"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01qn4r"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Single-photon_emission_computed_tomography"
+    }],
+    "name": "single photon emission computed tomography (spect)",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/spect_imaging"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/spect_imaging",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Single-photon_emission_computed_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q849737"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01qn4r"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Single-photon_emission_computed_tomography"
+    }],
+    "name": "spect imaging",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/non-rigid_registration",
+    "resource": "null",
+    "name": "non-rigid registration",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/nonrigid_image_registration"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/nonrigid_image_registration",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Image_registration"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q861092"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.014ct4"
+    }],
+    "name": "nonrigid image registration",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_image_fusion",
+    "resource": "null",
+    "name": "medical image fusion",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/optical_tomography",
+    "resource": "null",
+    "name": "optical tomography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/optical_coherence_tomography_%28oct%29", "https://cso.kmi.open.ac.uk/topics/diffuse_optical_tomography", "https://cso.kmi.open.ac.uk/topics/tomography%2C_optical", "https://cso.kmi.open.ac.uk/topics/axial_resolutions"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/tomography%2C_optical",
+    "resource": "null",
+    "name": "tomography, optical",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/diffuse_optical_tomography",
+    "resource": "null",
+    "name": "diffuse optical tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/axial_resolutions",
+    "resource": "null",
+    "name": "axial resolutions",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/optical_coherence_tomography_%28oct%29",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Optical_coherence_tomography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q899552"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02ybpr"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Optical_coherence_tomography"
+    }],
+    "name": "optical coherence tomography (oct)",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_imaging",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q234904"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0123cp"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Medical_ultrasonography"
+    }],
+    "name": "ultrasonic imaging",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasound_images", "https://cso.kmi.open.ac.uk/topics/photoacoustic_imaging", "https://cso.kmi.open.ac.uk/topics/ultrasound_image", "https://cso.kmi.open.ac.uk/topics/ultrasound_contrast_agents", "https://cso.kmi.open.ac.uk/topics/ultrasound_contrast_agent", "https://cso.kmi.open.ac.uk/topics/acoustic_imaging", "https://cso.kmi.open.ac.uk/topics/ultrasound_imaging", "https://cso.kmi.open.ac.uk/topics/ultrasonic_transmission", "https://cso.kmi.open.ac.uk/topics/ultrasonic_testing", "https://cso.kmi.open.ac.uk/topics/ultrasonic_transducers", "https://cso.kmi.open.ac.uk/topics/photo-acoustic_imaging"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/acoustic_imaging",
+    "resource": "null",
+    "name": "acoustic imaging",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/acoustic_holography"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/acoustic_holography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Holography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q527628"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0hjvt"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/3D_holography"
+    }],
+    "name": "acoustic holography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/photoacoustic_imaging",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Photoacoustic_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q7187705"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02vwhwq"
+    }],
+    "name": "photoacoustic imaging",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/photoacoustic_tomography"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/photoacoustic_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Photoacoustic_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q7187705"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02vwhwq"
+    }],
+    "name": "photoacoustic tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_images",
+    "resource": "null",
+    "name": "ultrasound images",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasound_probes", "https://cso.kmi.open.ac.uk/topics/ultrasonic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_probes",
+    "resource": "null",
+    "name": "ultrasound probes",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q234904"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0123cp"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Medical_ultrasonography"
+    }],
+    "name": "ultrasonic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_testing",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Ultrasonic_testing"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1779355"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.08qwgq"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Ultrasonic_testing"
+    }],
+    "name": "ultrasonic testing",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasonic_signals", "https://cso.kmi.open.ac.uk/topics/ultrasonic_guided_wave"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_guided_wave",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q162564"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.07tb9"
+    }],
+    "name": "ultrasonic guided wave",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_signals",
+    "resource": "null",
+    "name": "ultrasonic signals",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_transducers",
+    "resource": "null",
+    "name": "ultrasonic transducers",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasonic_propagation", "https://cso.kmi.open.ac.uk/topics/electroacoustic_transducers"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/electroacoustic_transducers",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Electroacoustic_music"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1326777"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02cr48"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Electroacoustic_music"
+    }],
+    "name": "electroacoustic transducers",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_propagation",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q162564"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.07tb9"
+    }],
+    "name": "ultrasonic propagation",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_contrast_agents",
+    "resource": "null",
+    "name": "ultrasound contrast agents",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_image",
+    "resource": "null",
+    "name": "ultrasound image",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasound_probes", "https://cso.kmi.open.ac.uk/topics/ultrasonic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_probes",
+    "resource": "null",
+    "name": "ultrasound probes",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q234904"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0123cp"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Medical_ultrasonography"
+    }],
+    "name": "ultrasonic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_imaging",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q234904"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0123cp"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Medical_ultrasonography"
+    }],
+    "name": "ultrasound imaging",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasound_probes", "https://cso.kmi.open.ac.uk/topics/ultrasonic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_probes",
+    "resource": "null",
+    "name": "ultrasound probes",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Medical_ultrasound"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q234904"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0123cp"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Medical_ultrasonography"
+    }],
+    "name": "ultrasonic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasound_contrast_agent",
+    "resource": "null",
+    "name": "ultrasound contrast agent",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/ultrasonic_transmission",
+    "resource": "null",
+    "name": "ultrasonic transmission",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/photo-acoustic_imaging",
+    "resource": "null",
+    "name": "photo-acoustic imaging",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/photoacoustic_tomography"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/photoacoustic_tomography",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Photoacoustic_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q7187705"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02vwhwq"
+    }],
+    "name": "photoacoustic tomography",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_image_retrieval",
+    "resource": "null",
+    "name": "medical image retrieval",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammography",
+    "resource": "null",
+    "name": "digital mammography",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/digital_breast_tomosynthesis"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_breast_tomosynthesis",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital breast tomosynthesis",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_image_segmentation",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Image_segmentation"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q56933"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02jj2w"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Image_segmentation"
+    }],
+    "name": "medical image segmentation",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiology_information_systems",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiology"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q77604"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.013x4m"
+    }],
+    "name": "radiology information systems",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/picture_archiving_and_communication_systems_%28pacs%29", "https://cso.kmi.open.ac.uk/topics/digital_imaging_and_communications_in_medicine", "https://cso.kmi.open.ac.uk/topics/teleradiology", "https://cso.kmi.open.ac.uk/topics/digital_imaging_and_communications_in_medicine_%28di", "https://cso.kmi.open.ac.uk/topics/dicom", "https://cso.kmi.open.ac.uk/topics/digital_imaging_and_communication_in_medicine", "https://cso.kmi.open.ac.uk/topics/picture_archiving_and_communication_systems", "https://cso.kmi.open.ac.uk/topics/radiology_department", "https://cso.kmi.open.ac.uk/topics/picture_archiving_and_communication_system_%28pacs%29", "https://cso.kmi.open.ac.uk/topics/radiology_department%2C_hospital"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/dicom",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/DICOM"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q81095"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.0h3vt"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/DICOM"
+    }],
+    "name": "dicom",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_imaging_and_communications_in_medicine_%28di",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q974213"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01p9b6"
+    }],
+    "name": "digital imaging and communications in medicine (di",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_imaging_and_communications_in_medicine",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_imaging"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q974213"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01p9b6"
+    }],
+    "name": "digital imaging and communications in medicine",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_imaging_and_communication_in_medicine",
+    "resource": "null",
+    "name": "digital imaging and communication in medicine",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/picture_archiving_and_communication_systems",
+    "resource": "null",
+    "name": "picture archiving and communication systems",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/picture_archiving"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/picture_archiving",
+    "resource": "null",
+    "name": "picture archiving",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/teleradiology",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Teleradiology"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1362556"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.08kjk6"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Teleradiology"
+    }],
+    "name": "teleradiology",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/picture_archiving_and_communication_systems_%28pacs%29",
+    "resource": "null",
+    "name": "picture archiving and communication systems (pacs)",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/picture_archiving"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/picture_archiving",
+    "resource": "null",
+    "name": "picture archiving",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/picture_archiving_and_communication_system_%28pacs%29",
+    "resource": "null",
+    "name": "picture archiving and communication system (pacs)",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/picture_archiving"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/picture_archiving",
+    "resource": "null",
+    "name": "picture archiving",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiology_department%2C_hospital",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Radiology"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q77604"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.013x4m"
+    }],
+    "name": "radiology department, hospital",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/radiology_department",
+    "resource": "null",
+    "name": "radiology department",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_image_registration",
+    "resource": "null",
+    "name": "medical image registration",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/pdb",
+    "resource": "null",
+    "name": "pdb",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/biomedical_literature",
+    "resource": "null",
+    "name": "biomedical literature",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/biomedical_text", "https://cso.kmi.open.ac.uk/topics/national_library_of_medicine_%28u.s.%29"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/national_library_of_medicine_%28u.s.%29",
+    "resource": "null",
+    "name": "national library of medicine (u.s.)",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/biomedical_text",
+    "resource": "null",
+    "name": "biomedical text",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/medical_imaging",
+    "resource": "null",
+    "name": "medical imaging",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/ultrasonic_imaging", "https://cso.kmi.open.ac.uk/topics/computerized_tomography", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis", "https://cso.kmi.open.ac.uk/topics/digital_mammography", "https://cso.kmi.open.ac.uk/topics/medical_image_processing", "https://cso.kmi.open.ac.uk/topics/medical_computing", "https://cso.kmi.open.ac.uk/topics/medical_image_fusion", "https://cso.kmi.open.ac.uk/topics/medical_image_registration", "https://cso.kmi.open.ac.uk/topics/medical_image_segmentation", "https://cso.kmi.open.ac.uk/topics/computer_aided_diagnosis", "https://cso.kmi.open.ac.uk/topics/optical_tomography", "https://cso.kmi.open.ac.uk/topics/radiology_information_systems", "https://cso.kmi.open.ac.uk/topics/medical_image_retrieval", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_%28cad%29"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_%28cad%29",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis (cad)",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/microcalcifications", "https://cso.kmi.open.ac.uk/topics/computer-aided_detection", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system", "https://cso.kmi.open.ac.uk/topics/x_ray_screens", "https://cso.kmi.open.ac.uk/topics/microcalcification"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcifications",
+    "resource": "null",
+    "name": "microcalcifications",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_detection",
+    "resource": "null",
+    "name": "computer-aided detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcification",
+    "resource": "null",
+    "name": "microcalcification",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/x_ray_screens",
+    "resource": "null",
+    "name": "x ray screens",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/mammogram", "https://cso.kmi.open.ac.uk/topics/mammographic", "https://cso.kmi.open.ac.uk/topics/mass_detection", "https://cso.kmi.open.ac.uk/topics/mammograms", "https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammogram",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammogram",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mass_detection",
+    "resource": "null",
+    "name": "mass detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis system",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Computer-aided_diagnosis"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1122413"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.027v954"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Computer-aided_diagnosis"
+    }],
+    "name": "computer-aided diagnosis",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/microcalcifications", "https://cso.kmi.open.ac.uk/topics/computer-aided_detection", "https://cso.kmi.open.ac.uk/topics/computer-aided_diagnosis_system", "https://cso.kmi.open.ac.uk/topics/x_ray_screens", "https://cso.kmi.open.ac.uk/topics/microcalcification"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcifications",
+    "resource": "null",
+    "name": "microcalcifications",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/computer-aided_detection",
+    "resource": "null",
+    "name": "computer-aided detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/microcalcification",
+    "resource": "null",
+    "name": "microcalcification",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/x_ray_screens",
+    "resource": "null",
+    "name": "x ray screens",
+    "relationship": ["https://cso.kmi.open.ac.uk/topics/mammogram", "https://cso.kmi.open.ac.uk/topics/mammographic", "https://cso.kmi.open.ac.uk/topics/mass_detection", "https://cso.kmi.open.ac.uk/topics/mammograms", "https://cso.kmi.open.ac.uk/topics/digital_mammograms", "https://cso.kmi.open.ac.uk/topics/mammographic_images"]
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammogram",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammogram",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/digital_mammograms",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Digital_terrestrial_television"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q1083894"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.02hjgj"
+    }, {
+        "@id": "http://yago-knowledge.org/resource/Digital_terrestrial_television"
+    }],
+    "name": "digital mammograms",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mass_detection",
+    "resource": "null",
+    "name": "mass detection",
+    "relationship": "null"
+}, {
+    "id": "https://cso.kmi.open.ac.uk/topics/mammographic_images",
+    "resource": [{
+        "@id": "http://dbpedia.org/resource/Mammography"
+    }, {
+        "@id": "http://www.wikidata.org/entity/Q324634"
+    }, {
+        "@id": "http://rdf.freebase.com/ns/m.01mwsz"
+    }],
+    "name": "mammographic images",
+    "relationship": "null"
+}]
