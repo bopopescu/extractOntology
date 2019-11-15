@@ -55,3 +55,19 @@ CREATE CONSTRAINT ON(c:Ontology) ASSERT c.name IS UNIQUE
 
 d3.js visualization
 Collapsible Force Layout
+
+
+
+
+USING PERIODIC COMMIT 50000
+LOAD CSV WITH HEADERS FROM "file:///newData.csv" AS row
+WITH DISTINCT row.`relationship` AS relationS, row.`father` AS father_Id, row.`son` AS son_Id
+MATCH (c:Ontology {id:father_Id}) 
+CALL apoc.create.relationship(c, relationsS, {}, c)
+
+
+
+USING PERIODIC COMMIT 50000
+LOAD CSV WITH HEADERS FROM "file:///son.csv" AS row
+WITH DISTINCT row.`id` AS ontologyId, row.`name`
+MERGE (c:Ontology {name:ontology_name})
