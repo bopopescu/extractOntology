@@ -71,3 +71,16 @@ USING PERIODIC COMMIT 50000
 LOAD CSV WITH HEADERS FROM "file:///son.csv" AS row
 WITH DISTINCT row.`id` AS ontologyId, row.`name`
 MERGE (c:Ontology {name:ontology_name})
+
+
+MERGE (sc:Ontology {name: "computer science"})-[:superTopicOf]->(c)
+SET c +={level:1}
+RETURN c
+
+MATCH (sc:Ontology {name: "computer science"})-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->(c)
+SET c+={level:3}
+RETURN COUNT(c)
+
+MATCH (sc:Ontolgy {name: "computer science"})-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()
+SET c+={level:8}
+RETURN COUNT(c)

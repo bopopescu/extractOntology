@@ -1,5 +1,6 @@
 import classifier.classifier as CSO
 import json
+from py2neo import *
 
 def dataProcess(datas):
     paper={}
@@ -15,6 +16,9 @@ def dataProcess(datas):
     return CSOToResult(CSO.run_cso_classifier_batch_mode(paper,workers=1,modules="both",enhancement="first"))
 
 def CSOToResult(data):
-    with open('app/static/data.json', 'w') as outfile:
-        json.dump(data, outfile)
+    # For test
+    # with open('app/static/data.json', 'w') as outfile:
+    #     json.dump(data, outfile)
+    graph = Graph(uri="http://127.0.0.1:7474/", username="neo4j", password="Wnwwykcj6")
+    results=graph.cypher.execute("MATCH (n:Ontology)")
     return ""
