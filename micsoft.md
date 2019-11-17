@@ -1,0 +1,11 @@
+storage account name: magaccount
+key1:
+Y3RaQf0lfarFayXrQrO0U8MVmVVUCAc+F8jXgR1vQuiEnit4f4NzjisNI5FUOtWi3KWW70Vqj3sNLU3tEebF0Q==
+connections string:
+DefaultEndpointsProtocol=https;AccountName=magaccount;AccountKey=Y3RaQf0lfarFayXrQrO0U8MVmVVUCAc+F8jXgR1vQuiEnit4f4NzjisNI5FUOtWi3KWW70Vqj3sNLU3tEebF0Q==;EndpointSuffix=core.windows.net
+
+key2:
+1ZUKzujXj8Jc2zcUhyA14gwfPVx//Y6RCUUiyu31hKBgHq6SD3KtcoJcuiJrtyTAzC2da3QiPao9fJMqRj0Xog==
+
+connections string:
+DefaultEndpointsProtocol=https;AccountName=magaccount;AccountKey=1ZUKzujXj8Jc2zcUhyA14gwfPVx//Y6RCUUiyu31hKBgHq6SD3KtcoJcuiJrtyTAzC2da3QiPao9fJMqRj0Xog==;EndpointSuffix=core.windows.net

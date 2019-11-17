@@ -1,0 +1,326 @@
+{
+    'Analyzing the Evolution of Vocabulary Terms and Their Impact on the LOD Cloud': {
+        'found': True,
+        'resultNode': (_20917: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/distributed_resources',
+            level: 6,
+            name: 'distributed resources'
+        })
+    },
+    'GSP (Geo-Semantic-Parsing): Geoparsing and Geotagging with Machine Learning on Top of Linked Data': {
+        'found': True,
+        'resultNode': (_24467: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/textual_data',
+            level: 6,
+            name: 'textual data'
+        })
+    },
+    'LDP-DL: A Language to Define the Design of Linked Data Platforms': {
+        'found': False
+    },
+    'Empirical Analysis of Ranking Models for an Adaptable Dataset Search': {
+        'found': False
+    },
+    'sameAs.cc: The Closure of 500M owl:sameAs Statements': {
+        'found': True,
+        'resultNode': (_18414: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/linked_open_data',
+            level: 5,
+            name: 'linked open data'
+        })
+    },
+    'Modeling and Preserving Greek Government Decisions Using Semantic Web Technologies and Permissionless Blockchains': {
+        'found': False
+    },
+    'Towards a Binary Object Notation for RDF': {
+        'found': True,
+        'resultNode': (_29129: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/internet',
+            level: 1,
+            name: 'internet'
+        })
+    },
+    'User-Centric Ontology Population': {
+        'found': True,
+        'resultNode': (_24014: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/formal_ontology',
+            level: 4,
+            name: 'formal ontology'
+        })
+    },
+    'Using Ontology-Based Data Summarization to Develop Semantics-Aware Recommender Systems': {
+        'found': False
+    },
+    'PageRank and Generic Entity Summarization for RDF Knowledge Bases': {
+        'found': False
+    },
+    'Answering Multiple-Choice Questions in Geographical Gaokao with a Concept Graph': {
+        'found': True,
+        'resultNode': (_21716: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/wiki',
+            level: 4,
+            name: 'wiki'
+        })
+    },
+    'TweetsKB: A Public and Large-Scale RDF Corpus of Annotated Tweets': {
+        'found': True,
+        'resultNode': (_17058: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/knowledge_discovery',
+            level: 5,
+            name: 'knowledge discovery'
+        })
+    },
+    'HDTQ: Managing RDF Datasets in Compressed Space': {
+        'found': True,
+        'resultNode': (_25523: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/compression_ratio_%28machinery%29',
+            level: 6,
+            name: 'compression ratio (machinery)'
+        })
+    },
+    'Answers Partitioning and Lazy Joins for Efficient Query Relaxation and Application to Similarity Search': {
+        'found': True,
+        'resultNode': (_27950: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/query_results',
+            level: 5,
+            name: 'query results'
+        })
+    },
+    'Evaluation of Schema.org for Aggregation of Cultural Heritage Metadatav': {
+        'found': True,
+        'resultNode': (_20705: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/digital_collections',
+            level: 4,
+            name: 'digital collections'
+        })
+    },
+    'Dynamic Planning for Link Discovery': {
+        'found': True,
+        'resultNode': (_20692: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/program_execution',
+            level: 6,
+            name: 'program execution'
+        })
+    },
+    'A Dataset for Web-Scale Knowledge Base Population': {
+        'found': True,
+        'resultNode': (_25665: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/web_crawlers',
+            level: 4,
+            name: 'web crawlers'
+        })
+    },
+    'EventKG: A Multilingual Event-Centric Temporal Knowledge Graph': {
+        'found': True,
+        'resultNode': (_18158: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/temporal_correlations',
+            level: 4,
+            name: 'temporal correlations'
+        })
+    },
+    'Semantic Concept Discovery over Event Databases': {
+        'found': True,
+        'resultNode': (_24823: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/neural_networks',
+            level: 3,
+            name: 'neural networks'
+        })
+    },
+    'Smart Papers: Dynamic Publications on the Blockchain': {
+        'found': True,
+        'resultNode': (_20203: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/smart_homes',
+            level: 5,
+            name: 'smart homes'
+        })
+    },
+    'Mind the (Language) Gap: Generation of Multilingual Wikipedia Summaries from Wikidata for ArticlePlaceholders': {
+        'found': True,
+        'resultNode': (_24823: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/neural_networks',
+            level: 3,
+            name: 'neural networks'
+        })
+    },
+    'What Does an Ontology Engineering Community Look Like? A Systematic Analysis of the schema.org Communityv': {
+        'found': True,
+        'resultNode': (_29129: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/internet',
+            level: 1,
+            name: 'internet'
+        })
+    },
+    'FERASAT: A Serendipity-Fostering Faceted Browser for Linked Data': {
+        'found': True,
+        'resultNode': (_18414: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/linked_open_data',
+            level: 5,
+            name: 'linked open data'
+        })
+    },
+    'Classifying Crises-Information Relevancy with Semantics': {
+        'found': True,
+        'resultNode': (_28876: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/twitter',
+            level: 4,
+            name: 'twitter'
+        })
+    },
+    'Efficient Temporal Reasoning on Streams of Events with DOTR': {
+        'found': True,
+        'resultNode': (_24595: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/ict',
+            level: 3,
+            name: 'ict'
+        })
+    },
+    'Intelligent Clients for Replicated Triple Pattern Fragments': {
+        'found': True,
+        'resultNode': (_17581: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/servers',
+            level: 3,
+            name: 'servers'
+        })
+    },
+    'Knowledge Guided Attention and Inference for Describing Images Containing Unseen Objects': {
+        'found': True,
+        'resultNode': (_17157: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/reference_image',
+            level: 4,
+            name: 'reference image'
+        })
+    },
+    'Benchmarking of a Novel POS Tagging Based Semantic Similarity Approach for Job Description Similarity Computation': {
+        'found': True,
+        'resultNode': (_26597: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/natural_language_processing',
+            level: 2,
+            name: 'natural language processing'
+        })
+    },
+    'A Tri-Partite Neural Document Language Model for Semantic Information Retrieval': {
+        'found': False
+    },
+    'Multiple Models for Recommending Temporal Aspects of Entities': {
+        'found': False
+    },
+    'GDPRtEXT - GDPR as a Linked Data Resource': {
+        'found': False
+    },
+    'Transfer Learning for Item Recommendations and Knowledge Graph Completion in Item Related Domains via a Co-Factorization Model': {
+        'found': False
+    },
+    'Modeling and Summarizing News Events Using Semantic Triples': {
+        'found': True,
+        'resultNode': (_25828: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/viewpoint',
+            level: 4,
+            name: 'viewpoint'
+        })
+    },
+    'GNIS-LD: Serving and Visualizing the Geographic Names Information System Gazetteer as Linked Data': {
+        'found': False
+    },
+    'Event-Enhanced Learning for KG Completion': {
+        'found': False
+    },
+    'Exploring Enterprise Knowledge Graphs: A Use Case in Software Engineering': {
+        'found': True,
+        'resultNode': (_20060: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/knowledge_management',
+            level: 3,
+            name: 'knowledge management'
+        })
+    },
+    'Using Link Features for Entity Clustering in Knowledge Graphs': {
+        'found': True,
+        'resultNode': (_16694: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/clustering_methods',
+            level: 3,
+            name: 'clustering methods'
+        })
+    },
+    'Modeling Relational Data with Graph Convolutional Networks': {
+        'found': True,
+        'resultNode': (_24823: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/neural_networks',
+            level: 3,
+            name: 'neural networks'
+        })
+    },
+    'Ontology-Driven Sentiment Analysis of Product and Service Aspects': {
+        'found': False
+    },
+    'Frankenstein: A Platform Enabling Reuse of Question Answering Components': {
+        'found': True,
+        'resultNode': (_25362: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/reusable_components',
+            level: 4,
+            name: 'reusable components'
+        })
+    },
+    'Querying APIs with SPARQL: Language and Worst-Case Optimal Algorithms': {
+        'found': True,
+        'resultNode': (_19043: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/semantic_web_services',
+            level: 4,
+            name: 'semantic web services'
+        })
+    },
+    'Task-Oriented Complex Ontology Alignment: Two Alignment Evaluation Sets': {
+        'found': True,
+        'resultNode': (_17999: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/matching_algorithm',
+            level: 4,
+            name: 'matching algorithm'
+        })
+    },
+    'Where is My URI?': {
+        'found': True,
+        'resultNode': (_26081: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/network_services',
+            level: 5,
+            name: 'network services'
+        })
+    },
+    'Optimizing Semantic Reasoning on Memory-Constrained Platforms Using the RETE Algorithm': {
+        'found': True,
+        'resultNode': (_21318: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/mobile_users',
+            level: 7,
+            name: 'mobile users'
+        })
+    },
+    'Efficient Ontology-Based Data Integration with Canonical IRIs': {
+        'found': True,
+        'resultNode': (_27950: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/query_results',
+            level: 5,
+            name: 'query results'
+        })
+    },
+    'Formal Query Generation for Question Answering over Knowledge Bases': {
+        'found': True,
+        'resultNode': (_27950: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/query_results',
+            level: 5,
+            name: 'query results'
+        })
+    },
+    'A LOD Backend Infrastructure for Scientific Search Portals': {
+        'found': True,
+        'resultNode': (_18414: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/linked_open_data',
+            level: 5,
+            name: 'linked open data'
+        })
+    },
+    'Detecting Hate Speech on Twitter Using a Convolution-GRU Based Deep Neural Network': {
+        'found': True,
+        'resultNode': (_24823: Ontology {
+            id: 'https://cso.kmi.open.ac.uk/topics/neural_networks',
+            level: 3,
+            name: 'neural networks'
+        })
+    }
+}

@@ -91,3 +91,10 @@ WHERE NOT (p)-[:executes]-()
 RETURN p
 
 
+MATCH (p:Ontology)
+WHERE NOT (p)-[:superTopicOf]-(:Ontology)
+RETURN p
+
+MATCH (p:Ontology)
+WHERE NOT (p)-[:superTopicOf]->(:Ontology)
+RETURN p
