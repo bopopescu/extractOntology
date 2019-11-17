@@ -84,3 +84,10 @@ RETURN COUNT(c)
 MATCH (sc:Ontolgy {name: "computer science"})-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()-[:superTopicOf]->()
 SET c+={level:8}
 RETURN COUNT(c)
+
+
+MATCH (p:person)
+WHERE NOT (p)-[:executes]-()
+RETURN p
+
+

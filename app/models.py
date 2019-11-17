@@ -7,8 +7,8 @@ def dataProcess(datas):
     idnumber=0
     for data in json.loads(datas):
         idnumber=idnumber+1
-        idname="id"+str(idnumber)
-        paper[idname]={
+        # idname="id"+str(idnumber)
+        paper[data["title"]]={
             "title":data["title"],
             "abstract":data["abstract"],
             "keywords":data["keywords"]
@@ -17,8 +17,8 @@ def dataProcess(datas):
 
 def CSOToResult(data):
     # For test
-    # with open('app/static/data.json', 'w') as outfile:
-    #     json.dump(data, outfile)
-    graph = Graph(uri="http://127.0.0.1:7474/", username="neo4j", password="Wnwwykcj6")
-    results=graph.cypher.execute("MATCH (n:Ontology)")
+    with open('app/static/data.json', 'w') as outfile:
+        json.dump(data, outfile)
+    # graph = Graph(uri="http://127.0.0.1:7474/", username="neo4j", password="Wnwwykcj6")
+    # results=graph.cypher.execute("MATCH (n:Ontology)")
     return ""

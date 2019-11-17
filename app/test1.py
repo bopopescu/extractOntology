@@ -21,8 +21,8 @@ with open('app/static/data.json') as json_file:
             results=graph.run("MATCH (n:Ontology) WHERE n.level="+str(level)+" RETURN n").data()
             for result in results:
                 # print(newd)
-                if data[newdata]["enhanced"][1]==result['n']["name"]:
-                    print(result)
+                if data[newdata]["union"][0]==result['n']["name"]:
+                    print(result['n'])
                     print(i)
                     i=i+1
 
