@@ -98,3 +98,6 @@ RETURN p
 MATCH (p:Ontology)
 WHERE NOT (p)-[:superTopicOf]->(:Ontology)
 RETURN p
+
+Match (c)-[:superTopicOf*]->(x)<-[:superTopicOf*]-(d)
+return x

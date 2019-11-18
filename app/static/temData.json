@@ -1,0 +1,42 @@
+{
+    'enhance_exist': {
+        'machine learning': [{
+            'p': (computer science) - [: superTopicOf {}] - > (artificial intelligence) - [: superTopicOf {}] - > (machine learning)
+        }],
+        'social networks': [{
+            'p': (computer science) - [: superTopicOf {}] - > (internet) - [: superTopicOf {}] - > (world wide web) - [: superTopicOf {}] - > (social networks)
+        }],
+        'economics': [{
+            'p': (computer science) - [: superTopicOf {}] - > (data mining) - [: superTopicOf {}] - > (customer relationship management(crm)) < -[: superTopicOf {}] - (sales) < -[: superTopicOf {}] - (economics)
+        }],
+        'world wide web': [{
+            'p': (computer science) - [: superTopicOf {}] - > (internet) - [: superTopicOf {}] - > (world wide web)
+        }],
+        'backpropagation algorithm': [{
+            'p': (computer science) - [: superTopicOf {}] - > (theoretical computer science) - [: superTopicOf {}] - > (graph theory) - [: superTopicOf {}] - > (belief propagation) < -[: superTopicOf {}] - (backpropagation algorithm)
+        }],
+        'recurrent neural networks': [{
+            'p': (computer science) - [: superTopicOf {}] - > (artificial intelligence) - [: superTopicOf {}] - > (machine learning techniques) - [: superTopicOf {}] - > (back - propagation neural networks) - [: superTopicOf {}] - > (recurrent neural networks)
+        }]
+    },
+    'union_exist': {
+        'neural networks': [{
+            'p': (computer science) - [: superTopicOf {}] - > (artificial intelligence) - [: superTopicOf {}] - > (machine learning techniques) - [: superTopicOf {}] - > (neural networks)
+        }],
+        'twitter': [{
+            'p': (computer science) - [: superTopicOf {}] - > (internet) - [: superTopicOf {}] - > (world wide web) - [: superTopicOf {}] - > (social networks) - [: superTopicOf {}] - > (twitter)
+        }],
+        'micro-blog': [{
+            'p': (computer science) - [: superTopicOf {}] - > (internet) - [: superTopicOf {}] - > (world wide web) - [: superTopicOf {}] - > (social networks) - [: superTopicOf {}] - > (twitter) - [: superTopicOf {}] - > (micro - blog)
+        }],
+        'investments': [{
+            'p': (computer science) - [: superTopicOf {}] - > (information technology) - [: superTopicOf {}] - > (financial data processing) < -[: superTopicOf {}] - (investments)
+        }],
+        'social media': [{
+            'p': (computer science) - [: superTopicOf {}] - > (internet) - [: superTopicOf {}] - > (world wide web) - [: superTopicOf {}] - > (social media)
+        }],
+        'recurrent networks': [{
+            'p': (computer science) - [: superTopicOf {}] - > (theoretical computer science) - [: superTopicOf {}] - > (graph theory) - [: superTopicOf {}] - > (belief propagation) < -[: superTopicOf {}] - (back propagation algorithm) - [: superTopicOf {}] - > (recurrent networks)
+        }]
+    }
+}
